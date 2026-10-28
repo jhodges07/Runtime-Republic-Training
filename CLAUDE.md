@@ -19,6 +19,8 @@ Control repositories (NBLF, NBBF, NBEF)  →  Training essays  →  Publication
 - Written to be read aloud: plain language, no tables, code or citation markers in essay text.
 - Use the header format in CONTROL 03 §4.
 - AI sets status `Draft` only. Only the Human Engineer sets `Approved` or `Posted`.
+- An essay needs a supporting image (`Image` header line) before it can be `Approved`.
+  Image standards are not defined yet; do not invent them (CONTROL 03 §7.1).
 - Planned features are described as planned. Never claim users or results that do not exist.
 
 ## Verification (CONTROL 15)
