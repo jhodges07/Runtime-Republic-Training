@@ -39,7 +39,7 @@ DECISIONS LOG:
 | 2026-10-28 | Bonus Essay Two also copied to District-Alerts-iOS `essays/` as Draft; cleared for this public repository | CONTROL 16 §2 |
 | 2026-10-28 | Changes arrive by pull request | CONTROL 14 §4 |
 | 2026-10-28 | Every essay needs a supporting image before Approved; image standards to be set later | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
-| 2026-10-28 | Every essay image shows BlueprintLiberty.com with RuntimeRepublic.com directly below it | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
+| 2026-10-28 | Every essay image shows BlueprintLiberty.com at the bottom center, with RuntimeRepublic.com on the line directly below it | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
 
 VERIFICATION LOG:
 
