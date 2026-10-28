@@ -1,6 +1,6 @@
 CONTROL 03 — Writing Standards
 
-Version: 1.1
+Version: 1.2
 Date: 2026-10-28
 Status: Authoritative (System-Wide)
 Project: Runtime-Republic Training
@@ -97,9 +97,12 @@ named in its `Image` header line (§7.1).
 
 • Every essay has one supporting image before it is approved.
 • The `Image` line gives a path inside this repository or a link.
-• Image standards (format, size, style, alt text, storage, licensing) are not
-  yet defined. The Human Engineer will set them in a later version of this
-  document. Until then, the Human Engineer judges each image at approval.
+• Required branding: every essay image shows `BlueprintLiberty.com` with
+  `RuntimeRepublic.com` directly below it. An image without both lines, in
+  that order, does not meet this standard and the essay may not be approved.
+• Other image standards (format, size, style, alt text, storage, licensing)
+  are not yet defined. The Human Engineer will set them in a later version of
+  this document. Until then, the Human Engineer judges each image at approval.
 
 ---
 
