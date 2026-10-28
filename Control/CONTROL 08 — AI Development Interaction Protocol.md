@@ -19,10 +19,14 @@ Defines how AI assistants (Claude, Cursor, Copilot, ChatGPT) may change this rep
 2. Only modify the files specified. Do not modify any other files.
 3. Do not modify CONTROL documents unless the task explicitly says so.
 4. One logical change per task (CONTROL 11, CONTROL 14).
-5. Every behavior change ships with tests in the same commit (CONTROL 15).
-6. Run the tests before declaring the task complete; report the real result.
-   If tests could not be run, say so — never claim a pass that did not happen.
-7. Never add a dependency or change architecture without Human Engineer approval.
+5. Every new or changed essay passes `scripts/check-essays.sh` in the same commit (CONTROL 15).
+6. Run the checks before declaring the task complete; report the real result.
+   If a check could not be run, say so — never claim a pass that did not happen.
+7. Never add a dependency, change structure or change control authority without
+   Human Engineer approval.
+8. AI may draft essays and set status `Draft` only. Only the Human Engineer sets
+   `Approved` or `Posted` (CONTROL 03 §7).
+9. Never fill a gap in a control document with invented content (CONTROL 10).
 
 ---
 
@@ -30,12 +34,12 @@ Defines how AI assistants (Claude, Cursor, Copilot, ChatGPT) may change this rep
 
 ```
 TASK: <one sentence>
-LAYER: Domain | Logic | Application | Infrastructure | Presentation
+LAYER: Essays | Docs | Control | Scripts | CI
 GOVERNING CONTROLS: CONTROL xx, CONTROL yy
 FILES TO CREATE/MODIFY: <explicit list>
-TESTS REQUIRED: <test names / cases>
+CHECKS REQUIRED: check-essays, check-controls, fact check, authority check
 CONSTRAINTS: Only modify the specified files. Do not modify any other files.
-DONE WHEN: tests pass; ARCHITECTURE_STATUS.md updated if a phase item completed.
+DONE WHEN: checks pass; ARCHITECTURE_STATUS.md updated if a phase item completed.
 ```
 
 ---
@@ -45,7 +49,8 @@ DONE WHEN: tests pass; ARCHITECTURE_STATUS.md updated if a phase item completed.
 The Human Engineer (or a second, independent AI review) checks every AI change against:
 
 • the governing CONTROL documents
-• layer rules (CONTROL 10)
+• the authority rules (CONTROL 10)
+• the writing standards (CONTROL 03)
 • the commit standard (CONTROL 14)
 
 ---
