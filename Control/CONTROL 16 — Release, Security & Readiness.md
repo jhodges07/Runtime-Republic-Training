@@ -9,29 +9,31 @@ Project: Runtime-Republic Training
 
 # 1. Purpose
 
-Defines what must be true before any release leaves the team.
+Defines what must be true before any essay is published outside this repository.
 
 ---
 
 # 2. Security
 
 • Secrets live in a secret store or CI secrets, never in the repository.
-• HTTPS / TLS for every external call; no certificate-verification bypasses.
-• Accounts with deploy or admin rights use two-factor authentication; at least two admins.
-• Dependency versions are pinned (lock file committed); updates reviewed monthly.
-• Personal data: collect the minimum; document what is stored and where.
-  {{FILL: data inventory or link to the project's privacy CONTROL document}}
+• Accounts with admin rights use two-factor authentication.
+• `main` is protected: changes arrive by pull request with passing CI.
+• Personal data: none is stored. Essays contain no names of private
+  individuals, addresses or contact details (CONTROL 03 §8).
+• Content from private repositories is published only when the Human Engineer
+  has cleared it for public release.
 
 ---
 
 # 3. Release Checklist
 
-- [ ] CI green on the release commit; tag `vX.Y.Z`
-- [ ] Manual checklist (CONTROL 15 §5) passed and recorded
-- [ ] CONTROL documents match the shipped behavior
-- [ ] No unfilled `{{FILL}}` markers in documents governing shipped features
-- [ ] Secrets rotated if anyone with access has left
-{{FILL: platform-specific steps, e.g. App Store review, database migration}}
+Before an essay is marked `Posted`:
+
+- [ ] Status is `Approved` and the approval checklist (CONTROL 15 §5) is recorded
+- [ ] CI green on the commit being published
+- [ ] Links checked (CONTROL 15 §2)
+- [ ] The post or audio link is added to the essay header in its own commit
+- [ ] LICENSE credit (CC BY 4.0) shown where the essay is published
 
 ---
 
