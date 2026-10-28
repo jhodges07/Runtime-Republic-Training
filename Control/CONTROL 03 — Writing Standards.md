@@ -1,6 +1,6 @@
 CONTROL 03 — Writing Standards
 
-Version: 1.0
+Version: 1.1
 Date: 2026-10-28
 Status: Authoritative (System-Wide)
 Project: Runtime-Republic Training
@@ -52,6 +52,7 @@ exist, or present a contested position as settled fact.
 - **Audience:** <who it is written for>
 - **Format:** Read aloud
 - **Status:** Draft | Approved | Posted
+- **Image:** <path or link>                (required before Approved)
 - **Audio:** <link, once recorded>          (optional)
 - **Governing sources:** <control documents> (topic essays only)
 
@@ -88,6 +89,17 @@ exist, or present a contested position as settled fact.
 | Posted | Published; the link is added to the header |
 
 Only the Human Engineer changes a status to `Approved` or `Posted`.
+
+An essay may not be `Approved` or `Posted` until it has a supporting image,
+named in its `Image` header line (§7.1).
+
+## 7.1 Supporting Images
+
+• Every essay has one supporting image before it is approved.
+• The `Image` line gives a path inside this repository or a link.
+• Image standards (format, size, style, alt text, storage, licensing) are not
+  yet defined. The Human Engineer will set them in a later version of this
+  document. Until then, the Human Engineer judges each image at approval.
 
 ---
 
