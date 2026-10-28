@@ -38,3 +38,13 @@ xcuserdata/
 .DS_Store
 Thumbs.db
 ~$*
+
+# Audio and video — hosted elsewhere and linked (CONTROL 04 §4)
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.ogg
+*.flac
+*.mp4
+*.mov
