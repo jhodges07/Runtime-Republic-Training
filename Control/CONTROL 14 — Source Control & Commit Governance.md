@@ -16,10 +16,10 @@ Architecture governs code. Code does not govern architecture.
 
 # 2. Commit Rules
 
-• One logical change per commit (one class, one fix, one focused refactor).
-• Commit as soon as a change builds and its tests pass.
-• Tests ship in the same commit as the behavior they cover.
-• No mixed feature + refactor commits; no unrelated file changes.
+• One logical change per commit (one essay, one CONTROL document, one fix).
+• Commit as soon as a change passes its checks.
+• A status change (Draft → Approved → Posted) is its own commit.
+• No mixed changes; no unrelated file changes.
 
 ---
 
@@ -29,17 +29,16 @@ Architecture governs code. Code does not govern architecture.
 [Layer] - [Action] - [Object]
 ```
 
-Layers: `Domain`, `Logic`, `Application`, `Infrastructure`, `Presentation`, `Control`, `CI`, `Repo`
-{{FILL: rename to match CONTROL 10 if layers differ}}
+Layers: `Essays`, `Docs`, `Control`, `Scripts`, `CI`, `Repo`
 
 Actions: `Added`, `Updated`, `Fixed`, `Removed`, `Refactored`
 
 Examples:
 
 ```
-[Logic] - Added - OrderTotalCalculator
-[Infrastructure] - Fixed - Null handling in OrderRepository
-[Control] - Updated - CONTROL 05 to v1.1
+[Essays] - Added - GitHub for Everyone Part 1
+[Essays] - Updated - Part 2 status to Approved
+[Control] - Updated - CONTROL 03 to v1.1
 ```
 
 ---
@@ -47,7 +46,7 @@ Examples:
 # 4. Branching
 
 • `main` is always releasable and protected (pull request + passing CI).
-• Work happens on `feature/<short-name>` or `fix/<short-name>` branches.
+• Work happens on `essays/<short-name>`, `docs/<short-name>` or `fix/<short-name>` branches.
 • Individual commits are the audit trail — no squash merges.
 • Release tags: `v<major>.<minor>.<patch>`.
 
@@ -56,7 +55,7 @@ Examples:
 # 5. Pull Requests
 
 Every PR uses `.github/pull_request_template.md`: governing CONTROL documents,
-tests added, and whether `ARCHITECTURE_STATUS.md` changed.
+checks run, and whether `ARCHITECTURE_STATUS.md` changed.
 
 ---
 
