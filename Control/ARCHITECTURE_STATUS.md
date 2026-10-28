@@ -21,6 +21,8 @@ COMPLETED:
 - GitHub for Everyone Parts 1–5 and Bonus Essays One and Two saved as Draft
 
 NEXT:
+- Create a supporting image for each essay (required before Approved)
+- Human Engineer to define image standards in a later CONTROL 03 version
 - Approve each essay in its own commit after the CONTROL 15 §5 checklist
 - Define the Phase 2 exit gate before the first NBLF, NBBF or NBEF essay
 
@@ -35,6 +37,7 @@ DECISIONS LOG:
 | 2026-10-28 | Essays saved as Draft; only the Human Engineer sets Approved or Posted | CONTROL 03 §7 |
 | 2026-10-28 | Bonus Essay Two also copied to District-Alerts-iOS `essays/` as Draft; cleared for this public repository | CONTROL 16 §2 |
 | 2026-10-28 | Changes arrive by pull request | CONTROL 14 §4 |
+| 2026-10-28 | Every essay needs a supporting image before Approved; image standards to be set later | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
 
 VERIFICATION LOG:
 
@@ -42,4 +45,5 @@ VERIFICATION LOG:
 |---|---|---|---|
 | 2026-10-28 | docs/setup-essays | `scripts/check-controls.sh --strict` | Pass: 11 documents, 0 errors, 0 warnings |
 | 2026-10-28 | docs/setup-essays | `scripts/check-essays.sh` | Pass: 7 essays, 0 errors |
-| 2026-10-28 | docs/setup-essays | Fact check, read-aloud pass | Not run; due before each essay is Approved |
+| 2026-10-28 | docs/setup-essays | `scripts/check-essays.sh` image rule against 6 sample essays | Pass: the 2 invalid samples failed, the 4 valid samples passed |
+| 2026-10-28 | docs/setup-essays | Fact check, read-aloud pass, image check | Not run; due before each essay is Approved |
