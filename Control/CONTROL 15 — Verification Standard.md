@@ -1,6 +1,6 @@
 CONTROL 15 — Verification Standard
 
-Version: 1.1
+Version: 1.2
 Date: 2026-10-28
 Status: Authoritative (System-Wide)
 Project: Runtime-Republic Training
@@ -23,7 +23,7 @@ of the CONTROL documents.
 | Fact check | Every dated or numeric fact matches an entry in `SOURCES.md` | before `Approved` |
 | Authority check | Topic essays match the control documents they name (CONTROL 10) | before `Approved` |
 | Read-aloud pass | The essay is listened to start to finish and reads cleanly (CONTROL 03 §3) | before `Approved` |
-| Image check | The essay has a supporting image that the Human Engineer accepts (CONTROL 03 §7.1). `scripts/check-essays.sh` fails an `Approved` or `Posted` essay with no `Image` line, or whose image path does not exist | before `Approved` |
+| Image check | The essay has a supporting image that the Human Engineer accepts, showing BlueprintLiberty.com with RuntimeRepublic.com directly below it (CONTROL 03 §7.1). The branding is checked by eye. `scripts/check-essays.sh` fails an `Approved` or `Posted` essay with no `Image` line, or whose image path does not exist | before `Approved` |
 | Link check | Links in the README, `SOURCES.md` and essay headers resolve | before `Posted` |
 
 ---
@@ -54,6 +54,7 @@ Before the Human Engineer marks an essay `Approved`:
 - [ ] Authority check done (topic essays only)
 - [ ] Read-aloud pass done
 - [ ] Supporting image present and accepted (CONTROL 03 §7.1)
+- [ ] Image shows BlueprintLiberty.com with RuntimeRepublic.com directly below it (CONTROL 03 §7.1)
 - [ ] Result recorded in the verification log
 
 ---
