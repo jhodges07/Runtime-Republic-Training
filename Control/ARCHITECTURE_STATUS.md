@@ -1,7 +1,7 @@
-# ARCHITECTURE STATUS — {{PROJECT_NAME}}
+# ARCHITECTURE STATUS — Runtime-Republic Training
 
 PHASE:
-Phase 0 — Foundation (started {{DATE}})
+Phase 0 — Foundation (started 2026-10-28)
 
 DIRECTION:
 {{FILL: one paragraph — what is being built and any Human Engineer decisions that shaped it}}
@@ -21,7 +21,7 @@ DECISIONS LOG:
 
 | Date | Decision | Recorded in |
 |---|---|---|
-| {{DATE}} | Project started from Control-Engineering-Template | — |
+| 2026-10-28 | Project started from Control-Engineering-Template | — |
 
 VERIFICATION LOG:
 

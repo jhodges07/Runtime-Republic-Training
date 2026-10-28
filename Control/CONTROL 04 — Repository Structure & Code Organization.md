@@ -1,9 +1,9 @@
 CONTROL 04 — Repository Structure & Code Organization
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-10-28
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
 
 ---
 
@@ -12,7 +12,7 @@ Project: {{PROJECT_NAME}}
 {{FILL: replace the code folders with the project's real layout; keep Control/, CLAUDE.md, scripts/ and .github/}}
 
 ```
-{{PROJECT_NAME}}/
+Runtime-Republic Training/
 │
 ├── README.md
 ├── CLAUDE.md                 AI assistant rules (CONTROL 08)

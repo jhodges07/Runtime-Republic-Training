@@ -1,9 +1,9 @@
 CONTROL 00 — Document Index & Architecture Navigation Map
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-10-28
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
 
 ---
 

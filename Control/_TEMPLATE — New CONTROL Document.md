@@ -3,7 +3,7 @@ CONTROL NN — Title
 Version: 1.0
 Date: YYYY-MM-DD
 Status: Draft
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
 
 <!--
 How to use:
