@@ -1,0 +1,29 @@
+# CONTROL 15 — every push and pull request is checked.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  control-documents:
+    name: CONTROL documents
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check headers, index and markers
+        run: bash scripts/check-controls.sh
+
+  # Add the project's build and test job here (CONTROL 15), for example:
+  #
+  # tests:
+  #   name: Build and test
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - run: dotnet test            # or: swift test / npm test / pytest

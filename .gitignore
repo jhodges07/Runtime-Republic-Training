@@ -1,0 +1,40 @@
+# Secrets — never commit (CONTROL 14 §6, CONTROL 16)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.cer
+*.mobileprovision
+secrets.*
+appsettings.*.local.json
+GoogleService-Info.plist
+google-services.json
+
+# Build output
+bin/
+obj/
+build/
+dist/
+out/
+.build/
+DerivedData/
+node_modules/
+__pycache__/
+*.pyc
+coverage/
+.test-build-out/
+
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+xcuserdata/
+.DS_Store
+Thumbs.db
+~$*
