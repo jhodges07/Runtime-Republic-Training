@@ -25,14 +25,14 @@ CONTROL 02 — Development Phase Plan
 STRUCTURE
 
 ```
-CONTROL 03 — Coding Standards & Class Design Rules
+CONTROL 03 — Writing Standards
 CONTROL 04 — Repository Structure & Code Organization
 ```
 
 OPERATIONAL TRUTH (project-specific models)
 
 ```
-{{FILL: list project models here, e.g. CONTROL 05 — <Domain> Data Model}}
+None yet. Free numbers: 05–07, 09, 12–13, 17+.
 ```
 
 AI + EXECUTION
@@ -41,13 +41,13 @@ AI + EXECUTION
 CONTROL 08 — AI Development Interaction Protocol
 CONTROL 11 — Incremental Development & Single-Threaded Execution
 CONTROL 14 — Source Control & Commit Governance
-CONTROL 15 — Testing & Verification Standard
+CONTROL 15 — Verification Standard
 ```
 
 SYSTEM GOVERNANCE
 
 ```
-CONTROL 10 — Architectural Separation & Logic Sovereignty
+CONTROL 10 — Authority Separation
 CONTROL 16 — Release, Security & Readiness
 ```
 
@@ -59,21 +59,17 @@ ARCHITECTURE_STATUS.md — current phase, completed items, next items
 
 ==================================================================
 
-SYSTEM AUTHORITY PIPELINE (default — adjust in CONTROL 10)
+SYSTEM AUTHORITY PIPELINE (see CONTROL 10)
 
 ```
-User Action
-↓
-Presentation (UI / API)        transport and display only
-↓
-Application (use cases)        orchestration
-↓
-Logic                          ALL business rules
-↓
-Domain                         pure models
+Control repositories (NBLF, NBBF, NBEF, Constitutional Engineering)
+↓ explained by
+Training essays (this repository)
+↓ published to
+Listeners, readers, websites
 ```
 
-Infrastructure implements the ports Application defines.
+Essays explain; control documents govern.
 
 ---
 
