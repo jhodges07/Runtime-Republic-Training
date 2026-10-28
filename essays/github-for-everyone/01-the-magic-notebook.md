@@ -5,7 +5,7 @@
 - **Audience:** Ages 10 and up
 - **Format:** Read aloud
 - **Status:** Draft
-- **Image:** [Students around an open book that holds a small city](images/01-the-magic-notebook.png)
+- **Image:** ![Students around an open book that holds a small city](images/01-the-magic-notebook.png)
 
 ---
 
