@@ -9,6 +9,7 @@
 #   - citation markers left in the text (<cite ...>, [1], index="...")
 #   - topic essay (nblf/, nbbf/, nbef/) without a "Governing sources" line
 #   - essay not listed in its folder README.md
+#   - Approved or Posted essay with no Image line, or an image path that does not exist
 #
 # Usage: scripts/check-essays.sh [essays-dir]
 
@@ -59,6 +60,18 @@ while IFS= read -r -d '' f; do
   if grep -qE '<cite|</cite>|index="[0-9]|\[[0-9]+\]' "$f"; then
     echo "ERROR: $rel — citation markers found; essays are read aloud (CONTROL 03 §3)"
     errors=$((errors + 1))
+  fi
+
+  if [[ "$status" == "Approved" || "$status" == "Posted" ]]; then
+    image="$(grep -m 1 '^- \*\*Image:\*\* ' "$f" | sed 's/^- \*\*Image:\*\* //' | tr -d '\r' || true)"
+    image_target="$(printf '%s' "$image" | sed -E 's/^.*\]\(([^)]*)\).*$/\1/')"
+    if [[ -z "$image" ]]; then
+      echo "ERROR: $rel — $status essay has no '- **Image:**' line (CONTROL 03 §7.1)"
+      errors=$((errors + 1))
+    elif [[ "$image_target" != http://* && "$image_target" != https://* && ! -f "$folder/$image_target" ]]; then
+      echo "ERROR: $rel — image not found: $image_target (CONTROL 03 §7.1)"
+      errors=$((errors + 1))
+    fi
   fi
 
   case "$folder" in
