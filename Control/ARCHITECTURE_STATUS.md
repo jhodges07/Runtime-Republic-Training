@@ -22,6 +22,7 @@ COMPLETED:
 
 NEXT:
 - Create a supporting image for each essay (required before Approved)
+- Replace the Part 1 image: it shows BlueprintLiberty.com but not RuntimeRepublic.com below it
 - Human Engineer to define image standards in a later CONTROL 03 version
 - Approve each essay in its own commit after the CONTROL 15 §5 checklist
 - Define the Phase 2 exit gate before the first NBLF, NBBF or NBEF essay
@@ -38,6 +39,7 @@ DECISIONS LOG:
 | 2026-10-28 | Bonus Essay Two also copied to District-Alerts-iOS `essays/` as Draft; cleared for this public repository | CONTROL 16 §2 |
 | 2026-10-28 | Changes arrive by pull request | CONTROL 14 §4 |
 | 2026-10-28 | Every essay needs a supporting image before Approved; image standards to be set later | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
+| 2026-10-28 | Every essay image shows BlueprintLiberty.com with RuntimeRepublic.com directly below it | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
 
 VERIFICATION LOG:
 
