@@ -4,12 +4,11 @@
 ## Governing CONTROL documents
 - CONTROL
 
-## Tests
-- [ ] Tests added/updated in the same commit (CONTROL 15)
-- [ ] Tests pass locally (or stated here as not run, with the reason)
-
 ## Checks
-- [ ] Layer rules respected (CONTROL 10)
-- [ ] No secrets committed (CONTROL 16)
-- [ ] `scripts/check-controls.sh` passes if a CONTROL document changed
+- [ ] `scripts/check-essays.sh` passes (CONTROL 15)
+- [ ] `scripts/check-controls.sh --strict` passes if a CONTROL document changed
+- [ ] New dated or numeric facts added to `SOURCES.md`
+- [ ] Topic essays match the control documents they name (CONTROL 10)
+- [ ] Status set to `Draft` unless the Human Engineer approved it (CONTROL 03 §7)
+- [ ] No personal data or uncleared private-repository content (CONTROL 16)
 - [ ] `Control/ARCHITECTURE_STATUS.md` updated if a phase item completed
