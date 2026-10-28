@@ -9,27 +9,22 @@ Project: Runtime-Republic Training
 
 # 1. Structure
 
-{{FILL: replace the code folders with the project's real layout; keep Control/, CLAUDE.md, scripts/ and .github/}}
-
 ```
-Runtime-Republic Training/
+Runtime-Republic-Training/
 │
-├── README.md
+├── README.md                 Description, essay index, related repositories
+├── LICENSE                   CC BY 4.0 (essays and documents)
+├── SOURCES.md                Links behind every dated or numeric fact
 ├── CLAUDE.md                 AI assistant rules (CONTROL 08)
 │
-├── src/
-│   ├── Domain/               Pure models. No I/O.
-│   ├── Logic/                ALL business rules.
-│   ├── Application/          Use cases + ports (interfaces)
-│   ├── Infrastructure/       Database, network, file implementations of ports
-│   └── Presentation/         UI or API — display / transport only
-│
-├── tests/
-│   ├── Domain/  Logic/  Application/  Infrastructure/
-│   └── Architecture/         Layer guard tests
+├── essays/
+│   ├── github-for-everyone/  Series: GitHub history, background, fundamentals
+│   ├── nblf/                 Node-Based Liberty Framework topics
+│   ├── nbbf/                 Node-Based Budget Framework topics
+│   └── nbef/                 Node-Based Education Framework topics
 │
 ├── Control/                  CONTROL documents + ARCHITECTURE_STATUS.md
-├── scripts/                  init-project.sh, check-controls.sh
+├── scripts/                  check-controls.sh, check-essays.sh, init-project.sh
 └── .github/                  CI workflow, PR template
 ```
 
@@ -37,13 +32,15 @@ Runtime-Republic Training/
 
 # 2. Placement Rules
 
-| If the code… | It goes in… |
+| If the file… | It goes in… |
 |---|---|
-| describes what something is | Domain |
-| decides, calculates or changes state | Logic |
-| orchestrates a user action | Application |
-| talks to a database, network or disk | Infrastructure |
-| draws a screen or exposes an endpoint | Presentation |
+| is an essay in a series | `essays/<series>/` |
+| explains NBLF, NBBF or NBEF control documents | `essays/nblf/`, `essays/nbbf/` or `essays/nbef/` |
+| is a source link for a fact | `SOURCES.md` |
+| governs how this repository works | `Control/` |
+| checks the repository | `scripts/` |
+
+Each folder under `essays/` has a `README.md` listing its essays and status.
 
 ---
 
@@ -59,8 +56,16 @@ Runtime-Republic Training/
 
 # 4. Never Committed
 
-Secrets (keys, certificates, `.env`, service config files with credentials),
-build output, IDE user files. See `.gitignore` and CONTROL 16.
+Secrets, personal data, and audio or video files. Recordings are hosted
+elsewhere (for example GitHub Releases or a podcast platform) and linked from
+the essay header. See `.gitignore` and CONTROL 16.
+
+---
+
+# 5. Reserved for Software
+
+If software is added (CONTROL 02 §5), its folders are defined here by Human
+Engineer decision before any code is committed.
 
 ---
 
