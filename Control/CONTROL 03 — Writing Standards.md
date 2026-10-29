@@ -1,7 +1,7 @@
 CONTROL 03 — Writing Standards
 
-Version: 1.3
-Date: 2026-10-28
+Version: 1.4
+Date: 2026-10-29
 Status: Authoritative (System-Wide)
 Project: Runtime-Republic Training
 
@@ -53,6 +53,7 @@ exist, or present a contested position as settled fact.
 - **Format:** Read aloud
 - **Status:** Draft | Approved | Posted
 - **Image:** <path or link>                (required before Approved)
+- **Image header:** <short title> | <series line> (required with Image; §7.2)
 - **Audio:** <link, once recorded>          (optional)
 - **Governing sources:** <control documents> (topic essays only)
 
@@ -97,13 +98,45 @@ named in its `Image` header line (§7.1).
 
 • Every essay has one supporting image before it is approved.
 • The `Image` line gives a path inside this repository or a link.
-• Required branding: at the bottom center of every essay image, the text
-  `BlueprintLiberty.com`, with `RuntimeRepublic.com` on the line directly
-  below it. An image without both lines, in that order and in that position,
-  does not meet this standard and the essay may not be approved.
+• Every essay image carries the header and footer in §7.2. An image without
+  both, worded and placed as §7.2 requires, does not meet this standard and
+  the essay may not be approved.
 • Other image standards (format, size, style, alt text, storage, licensing)
   are not yet defined. The Human Engineer will set them in a later version of
   this document. Until then, the Human Engineer judges each image at approval.
+
+## 7.2 Image Header and Footer
+
+Header, top center, inside the top fifth of the image:
+
+• Line 1, the short title: four words or fewer, taken from the essay's full
+  title. Bold hand-lettering in dark navy; the largest text in the image.
+• Line 2, the series line: the series name, a bullet (•), then the essay's
+  place in the series. Smaller, clean sans-serif type, the same navy.
+    - Main parts:   `GitHub for Everyone • Part 2`
+    - Bonus essays: `GitHub for Everyone • Bonus 1`
+    - Topic essays: `<framework name> • Essay N`, for example
+      `Node-Based Liberty Framework • Essay 1`
+• Both lines sit on a soft light glow so they read clearly over the art.
+
+Footer, bottom center, inside the bottom tenth of the image:
+
+• Line 1: `BlueprintLiberty.com`
+• Line 2: `RuntimeRepublic.com`, on the line directly below.
+• Both lines the same size, white serif type with a light dark shadow, over
+  a calm, uncluttered area of the art.
+
+Rules for both:
+
+• Header and footer share the same vertical center line.
+• All text stays at least 40 px from every edge.
+• Every word is spelled exactly; the text is checked by eye before the image
+  is committed.
+• No other text appears anywhere in the image.
+• The essay's `Image header` line records the two header lines as
+  `<short title> | <series line>`. The series name in the series line matches
+  the series name in the essay's `Series` line. The image text matches the
+  `Image header` line exactly.
 
 ---
 
@@ -127,8 +160,8 @@ Human Engineer decision before any code is committed (CONTROL 02 §5).
 
 # 10. Enforcement
 
-• `scripts/check-essays.sh` checks headers, status values and citation
-  markers (CONTROL 15).
+• `scripts/check-essays.sh` checks headers, status values, citation
+  markers and the `Image header` line (CONTROL 15).
 • Human Engineer review before any status change.
 
 ---
