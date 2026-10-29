@@ -6,6 +6,7 @@
 - **Format:** Read aloud
 - **Status:** Draft
 - **Image:** ![Students around an open book that holds a small city](images/01-the-magic-notebook.png)
+- **Image header:** The Magic Notebook | GitHub for Everyone • Part 1
 
 ---
 

@@ -5,6 +5,7 @@
 - **Audience:** Teens and adults; follows Bonus Essay One
 - **Format:** Read aloud
 - **Status:** Draft
+- **Image header:** The Signal | GitHub for Everyone • Bonus 2
 
 ---
 

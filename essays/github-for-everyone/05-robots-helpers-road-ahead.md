@@ -5,6 +5,7 @@
 - **Audience:** Ages 10 and up
 - **Format:** Read aloud
 - **Status:** Draft
+- **Image header:** The Road Ahead | GitHub for Everyone • Part 5
 
 ---
 

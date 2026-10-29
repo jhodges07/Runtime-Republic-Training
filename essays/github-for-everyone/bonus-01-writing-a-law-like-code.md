@@ -5,6 +5,7 @@
 - **Audience:** Teens and adults; follows Parts 1 to 5
 - **Format:** Read aloud
 - **Status:** Draft
+- **Image header:** Writing Law Like Code | GitHub for Everyone • Bonus 1
 
 ---
 
