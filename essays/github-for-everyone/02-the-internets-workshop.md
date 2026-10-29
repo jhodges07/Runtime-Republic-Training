@@ -5,6 +5,7 @@
 - **Audience:** Ages 10 and up
 - **Format:** Read aloud
 - **Status:** Draft
+- **Image:** ![Friends building a website together in a cozy workshop, with project cards flowing into a finished web page](images/02-the-internets-workshop.png)
 
 ---
 
