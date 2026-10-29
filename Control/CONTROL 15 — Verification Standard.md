@@ -1,7 +1,7 @@
 CONTROL 15 — Verification Standard
 
-Version: 1.3
-Date: 2026-10-28
+Version: 1.4
+Date: 2026-10-29
 Status: Authoritative (System-Wide)
 Project: Runtime-Republic Training
 
@@ -19,11 +19,11 @@ of the CONTROL documents.
 | Category | What it proves | Runs |
 |---|---|---|
 | Control documents | Headers, index and markers (`scripts/check-controls.sh --strict`) | every push |
-| Essay format | Header fields, status values, no citation markers, topic essays name their sources, every essay listed in its folder README (`scripts/check-essays.sh`) | every push |
+| Essay format | Header fields, status values, no citation markers, topic essays name their sources, every essay listed in its folder README, `Image header` line present and matching the `Series` line (`scripts/check-essays.sh`) | every push |
 | Fact check | Every dated or numeric fact matches an entry in `SOURCES.md` | before `Approved` |
 | Authority check | Topic essays match the control documents they name (CONTROL 10) | before `Approved` |
 | Read-aloud pass | The essay is listened to start to finish and reads cleanly (CONTROL 03 §3) | before `Approved` |
-| Image check | The essay has a supporting image that the Human Engineer accepts, showing BlueprintLiberty.com at the bottom center with RuntimeRepublic.com on the line directly below it (CONTROL 03 §7.1). The branding is checked by eye. `scripts/check-essays.sh` fails an `Approved` or `Posted` essay with no `Image` line, or whose image path does not exist | before `Approved` |
+| Image check | The essay has a supporting image that the Human Engineer accepts, with the header and footer in CONTROL 03 §7.2: the short title and series line at top center, matching the essay's `Image header` line, and BlueprintLiberty.com at the bottom center with RuntimeRepublic.com on the line directly below it. The image text is checked by eye. `scripts/check-essays.sh` fails an `Approved` or `Posted` essay with no `Image` line, or whose image path does not exist | before `Approved` |
 | Link check | Links in the README, `SOURCES.md` and essay headers resolve | before `Posted` |
 
 ---
@@ -54,7 +54,8 @@ Before the Human Engineer marks an essay `Approved`:
 - [ ] Authority check done (topic essays only)
 - [ ] Read-aloud pass done
 - [ ] Supporting image present and accepted (CONTROL 03 §7.1)
-- [ ] Image shows BlueprintLiberty.com at the bottom center, with RuntimeRepublic.com on the line directly below it (CONTROL 03 §7.1)
+- [ ] Image header shows the short title and series line at top center, matching the `Image header` line (CONTROL 03 §7.2)
+- [ ] Image footer shows BlueprintLiberty.com at the bottom center, with RuntimeRepublic.com on the line directly below it (CONTROL 03 §7.2)
 - [ ] Result recorded in the verification log
 
 ---
