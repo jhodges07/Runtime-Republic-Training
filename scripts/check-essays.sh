@@ -10,6 +10,10 @@
 #   - topic essay (nblf/, nbbf/, nbef/) without a "Governing sources" line
 #   - essay not listed in its folder README.md
 #   - Approved or Posted essay with no Image line, or an image path that does not exist
+#   - Image line without an Image header line, or an Image header that is not
+#     '<short title> | <series name> • Part N|Bonus N|Essay N', has a short title
+#     over four words, or names a series that differs from the Series line
+#     (CONTROL 03 §7.2)
 #
 # Usage: scripts/check-essays.sh [essays-dir]
 
@@ -60,6 +64,37 @@ while IFS= read -r -d '' f; do
   if grep -qE '<cite|</cite>|index="[0-9]|\[[0-9]+\]' "$f"; then
     echo "ERROR: $rel — citation markers found; essays are read aloud (CONTROL 03 §3)"
     errors=$((errors + 1))
+  fi
+
+  has_image="$(grep -c '^- \*\*Image:\*\* ' "$f" || true)"
+  image_header="$(grep -m 1 '^- \*\*Image header:\*\* ' "$f" | sed 's/^- \*\*Image header:\*\* //' | tr -d '\r' || true)"
+  if [[ "$has_image" -gt 0 && -z "$image_header" ]]; then
+    echo "ERROR: $rel — Image line without an '- **Image header:**' line (CONTROL 03 §7.2)"
+    errors=$((errors + 1))
+  elif [[ -n "$image_header" ]]; then
+    if [[ "$image_header" != *" | "* || "${image_header#* | }" == *" | "* ]]; then
+      echo "ERROR: $rel — Image header must be '<short title> | <series line>' (CONTROL 03 §7.2)"
+      errors=$((errors + 1))
+    else
+      short_title="${image_header%% | *}"
+      series_line="${image_header#* | }"
+      words="$(printf '%s' "$short_title" | wc -w | tr -d ' ')"
+      if [[ "$words" -lt 1 || "$words" -gt 4 ]]; then
+        echo "ERROR: $rel — Image header short title must be 1 to 4 words (found $words) (CONTROL 03 §7.2)"
+        errors=$((errors + 1))
+      fi
+      series_value="$(grep -m 1 '^- \*\*Series:\*\* ' "$f" | sed 's/^- \*\*Series:\*\* //' | tr -d '\r' || true)"
+      series_name="${series_value%%,*}"
+      expected_prefix="$series_name • "
+      place="${series_line#"$expected_prefix"}"
+      if [[ "$series_line" != "$expected_prefix"* ]]; then
+        echo "ERROR: $rel — Image header series line must start with '$expected_prefix' (CONTROL 03 §7.2)"
+        errors=$((errors + 1))
+      elif [[ ! "$place" =~ ^(Part|Bonus|Essay)\ [0-9]+$ ]]; then
+        echo "ERROR: $rel — Image header place must be 'Part N', 'Bonus N' or 'Essay N' (found: '$place') (CONTROL 03 §7.2)"
+        errors=$((errors + 1))
+      fi
+    fi
   fi
 
   if [[ "$status" == "Approved" || "$status" == "Posted" ]]; then
