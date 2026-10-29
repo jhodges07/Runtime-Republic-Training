@@ -20,6 +20,7 @@ COMPLETED:
 - README, LICENSE (CC BY 4.0), SOURCES.md, essay folders
 - GitHub for Everyone Parts 1–5 and Bonus Essays One and Two saved as Draft
 - Part 1 supporting image added, meeting the branding standard
+- Part 2 supporting image added, meeting the branding standard
 
 NEXT:
 - Create a supporting image for each essay (required before Approved)
@@ -49,4 +50,5 @@ VERIFICATION LOG:
 | 2026-10-28 | docs/setup-essays | `scripts/check-essays.sh` | Pass: 7 essays, 0 errors |
 | 2026-10-28 | docs/setup-essays | `scripts/check-essays.sh` image rule against 6 sample essays | Pass: the 2 invalid samples failed, the 4 valid samples passed |
 | 2026-10-28 | docs/setup-essays | Part 1 image branding, checked by eye | Pass: BlueprintLiberty.com at bottom center, RuntimeRepublic.com directly below |
+| 2026-10-29 | docs/setup-essays | Part 2 image branding, checked by eye | Pass: BlueprintLiberty.com at bottom center, RuntimeRepublic.com directly below |
 | 2026-10-28 | docs/setup-essays | Fact check, read-aloud pass, image check | Not run; due before each essay is Approved |
