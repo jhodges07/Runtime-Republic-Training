@@ -21,9 +21,11 @@ COMPLETED:
 - GitHub for Everyone Parts 1–5 and Bonus Essays One and Two saved as Draft
 - Part 1 supporting image added, meeting the branding standard
 - Part 2 supporting image added, meeting the branding standard
+- Image header and footer standard set (CONTROL 03 §7.2); `Image header` lines added to all seven essays
 
 NEXT:
 - Create a supporting image for each essay (required before Approved)
+- Remake the Part 1 image with the §7.2 header (it has the footer but no header)
 - Human Engineer to define image standards in a later CONTROL 03 version
 - Approve each essay in its own commit after the CONTROL 15 §5 checklist
 - Define the Phase 2 exit gate before the first NBLF, NBBF or NBEF essay
@@ -41,6 +43,7 @@ DECISIONS LOG:
 | 2026-10-28 | Changes arrive by pull request | CONTROL 14 §4 |
 | 2026-10-28 | Every essay needs a supporting image before Approved; image standards to be set later | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
 | 2026-10-28 | Every essay image shows BlueprintLiberty.com at the bottom center, with RuntimeRepublic.com on the line directly below it | CONTROL 03 §7.1, CONTROL 15 §2 and §5 |
+| 2026-10-29 | Every essay image has a top-center header (short title of four words or fewer, then the series line) and the bottom-center footer; each essay records its header in an `Image header` line | CONTROL 03 §4 and §7.2, CONTROL 15 §2 and §5 |
 
 VERIFICATION LOG:
 
@@ -51,4 +54,8 @@ VERIFICATION LOG:
 | 2026-10-28 | docs/setup-essays | `scripts/check-essays.sh` image rule against 6 sample essays | Pass: the 2 invalid samples failed, the 4 valid samples passed |
 | 2026-10-28 | docs/setup-essays | Part 1 image branding, checked by eye | Pass: BlueprintLiberty.com at bottom center, RuntimeRepublic.com directly below |
 | 2026-10-29 | docs/setup-essays | Part 2 image branding, checked by eye | Pass: BlueprintLiberty.com at bottom center, RuntimeRepublic.com directly below |
+| 2026-10-29 | docs/setup-essays | `scripts/check-essays.sh` Image header rule against 8 sample essays | Pass: the 5 invalid samples failed, the 3 valid samples passed |
+| 2026-10-29 | docs/setup-essays | `scripts/check-essays.sh` | Pass: 7 essays, 0 errors |
+| 2026-10-29 | docs/setup-essays | `scripts/check-controls.sh --strict` | Pass: 11 documents, 0 errors, 0 warnings |
+| 2026-10-29 | docs/setup-essays | Image headers checked by eye against §7.2 | Part 2: Pass. Part 1: Fail, no header; remake needed |
 | 2026-10-28 | docs/setup-essays | Fact check, read-aloud pass, image check | Not run; due before each essay is Approved |
