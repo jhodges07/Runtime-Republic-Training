@@ -22,10 +22,10 @@ COMPLETED:
 - Part 1 supporting image added, meeting the branding standard
 - Part 2 supporting image added, meeting the branding standard
 - Image header and footer standard set (CONTROL 03 §7.2); `Image header` lines added to all seven essays
+- Part 1 image remade with the §7.2 header; original art and footer kept
 
 NEXT:
 - Create a supporting image for each essay (required before Approved)
-- Remake the Part 1 image with the §7.2 header (it has the footer but no header)
 - Human Engineer to define image standards in a later CONTROL 03 version
 - Approve each essay in its own commit after the CONTROL 15 §5 checklist
 - Define the Phase 2 exit gate before the first NBLF, NBBF or NBEF essay
@@ -58,4 +58,5 @@ VERIFICATION LOG:
 | 2026-10-29 | docs/setup-essays | `scripts/check-essays.sh` | Pass: 7 essays, 0 errors |
 | 2026-10-29 | docs/setup-essays | `scripts/check-controls.sh --strict` | Pass: 11 documents, 0 errors, 0 warnings |
 | 2026-10-29 | docs/setup-essays | Image headers checked by eye against §7.2 | Part 2: Pass. Part 1: Fail, no header; remake needed |
+| 2026-10-29 | docs/setup-essays | Part 1 remade image checked by eye against §7.2 | Pass: "THE MAGIC NOTEBOOK" and "GitHub for Everyone • Part 1" at top center inside the top fifth; footer unchanged |
 | 2026-10-28 | docs/setup-essays | Fact check, read-aloud pass, image check | Not run; due before each essay is Approved |
