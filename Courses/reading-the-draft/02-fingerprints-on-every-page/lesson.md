@@ -61,6 +61,8 @@ And the last hard question: is one hour enough? For a short bill, an hour is ple
 
 Let's recap. The draft gives every version of every bill a permanent public home, owned by the state. It gives every version a fingerprint, so a single changed comma is visible to anyone. It ties every official action, from introduction to the Governor's signature, to a fingerprint posted at least an hour earlier. Action that skips the clock is not valid. Emergencies are allowed, by two-thirds of all members, but the text is still posted first. And there's work left: naming the fingerprint method, planning for outages, checking the Governor clause against the constitution, and making the rule permanent through an amendment.
 
+One update since this essay was first written. The draft now has an outage rule. While the repository is down, the one-hour clock stops. If an outage runs long, a backup copy chosen in advance becomes the posting place. And every outage is logged, with its start and end times.
+
 One last question for you. If you could get a notice the moment any bill changed, which bill would you watch first?
 
 This has been Runtime Republic. Find the essays, the projects, and ways to get involved at BlueprintLiberty.com and RuntimeRepublic.com. Thanks for listening.
