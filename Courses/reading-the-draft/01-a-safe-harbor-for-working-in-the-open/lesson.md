@@ -35,11 +35,9 @@ The Open Meetings Act covers the Legislature, unless the Legislature's own rules
 
 The draft joint rule uses that power carefully. In plain words, it says this. Comments by members in the official legislative repository are not a meeting under the Open Meetings Act, if three things are true. First, the repository is open to public reading. Second, every comment is permanently logged, with its author and the time. Third, no vote or binding action is taken in the repository.
 
-Each of those three conditions is there for a reason. Let's look at why.
-
 Condition one is public reading. The whole point of the open meetings law is that the public can see the work. Notice, in the traditional sense, exists so people know when and where to show up. In a public repository, the work is always showing. You don't need to know when to show up, because the door never closes. So the first condition replaces a notice that tells you where to look with a record you can look at any time.
 
-Condition two is permanent logging, with an author and a time. This is what makes the record trustworthy. A comment that can be quietly deleted is not a public record. It's a whiteboard. The draft requires that every comment stay, with the name of the person who wrote it and the moment they wrote it. If a member says something on Tuesday and regrets it on Wednesday, they can add a correction. But the Tuesday comment stays. That's the same discipline the repository already applies to every version of a bill.
+Condition two is permanent logging, with an author and a time. This is what makes the record trustworthy. A comment that can be quietly deleted is not a public record. It's a whiteboard. The draft requires that every comment stay, with the name of the person who wrote it and the moment they wrote it. If a member says something on Tuesday and regrets it on Wednesday, they can add a correction. But the Tuesday comment stays.
 
 Condition three is no vote and no binding action. This is the guardrail. The repository is a workshop, not a chamber. Members can explain, ask, argue and refine there. But nothing is decided there. Every vote still happens in a properly noticed meeting, on the record, where the public can watch and members answer for their choices. Under the larger proposal in this series, that vote would also have to name the exact version of the text being voted on, a version that's been public for at least an hour.
 
@@ -47,7 +45,7 @@ Put the three together, and you get what lawyers call a safe harbor. A safe harb
 
 Now the second layer, the statute. The statute does three jobs.
 
-Its first job is to extend the same safe harbor to everyone else covered by the open meetings law. The draft adds a new subsection to the section of Kansas law that defines a meeting. That's K.S.A. 75-4317a. The new subsection uses the same three conditions: open to public reading at all times, every communication permanently logged with its author and time, and no vote or binding action taken there. It adds one more requirement. The repository has to be one designated under the law. That way a city council can't point to just any website and call it a safe harbor. The repository must meet published standards.
+Its first job is to extend the same safe harbor to everyone else covered by the open meetings law. The draft adds a new subsection to the section of Kansas law that defines a meeting. That's K.S.A. 75-4317a. The new subsection uses the same three conditions: open to public reading at all times, every communication permanently logged with its author and time, and no vote or binding action taken there. It adds one more requirement. The repository has to be one designated under the law. That way no one can call just any website a safe harbor.
 
 Its second job is to make the record permanent by law. The draft says every version, every comment, and every log entry in the official repository is a public record under the Kansas Open Records Act, and must be kept permanently. That matters because Kansas already treats records about official business as public, even on a personal account or a personal phone. The draft doesn't loosen that. It tightens it, for the repository.
 
@@ -67,11 +65,13 @@ The fourth hard question: can a joint rule really bind the Legislature? Only unt
 
 And the last hard question: is this good for lawmakers, or good for the public? The answer is both, and that's what makes it worth trying. Lawmakers get a clear, safe way to explain their thinking, answer constituents, and work through hard problems in the open. The public gets something it has never had: a permanent, searchable record of how its representatives reasoned their way to a decision, not just how they voted.
 
-Let's recap. The open meetings law, written for an older world, can treat the most open way of working as a violation. The draft fixes that with a safe harbor. Communication in an official public repository is not a meeting, if the repository is always open to public reading, every comment is permanently logged with its author and time, and no vote or binding action happens there. The Legislature can adopt that protection for itself by joint rule. A statute extends it to local bodies that opt in, makes every comment a permanent public record, and requires a state-owned repository that no company controls. And the posting rule itself still needs a constitutional amendment to make it permanent.
+Let's recap. The open meetings law, written for an older world, can treat the most open way of working as a violation. The draft fixes that with a safe harbor. Communication in an official public repository is not a meeting, if the repository is always open to public reading, every comment is permanently logged with its author and time, and no vote or binding action happens there. A joint rule protects the Legislature. A statute protects everyone else, keeps every comment as a permanent public record, and keeps the repository in public hands. And the posting rule itself still needs a constitutional amendment to make it permanent.
 
 The goal isn't to hide anything. It's the opposite. It's to make working in public the safest way to work.
 
 One update since this essay was first written. The draft has been revised to add both of the fixes we talked about. Anyone can now subscribe, free, to notices of new comments on a measure. And the safe harbor now clearly covers the serial-communications rule too.
+
+Before we go, one question for you. Every bill needs a name, and this one's working title is plain: the One-Hour Rule Act. Here are three ideas. The Open Harbor Act. The Liberty Ledger Act. The Daylight Democracy Act. Which would you choose? Or what would you call it?
 
 This has been Runtime Republic. Find the essays, the projects, and ways to get involved at BlueprintLiberty.com and RuntimeRepublic.com. Thanks for listening.
 
