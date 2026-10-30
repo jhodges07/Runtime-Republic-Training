@@ -3,7 +3,7 @@
 ![Using AI Responsibly in Office](02-using-ai-responsibly.png)
 
 Course: Claude for Office Holders
-Lesson: 02 of 05
+Lesson: 02 of 06
 Status: Draft
 Runtime: about 5 and a half minutes
 Image: 02-using-ai-responsibly.png

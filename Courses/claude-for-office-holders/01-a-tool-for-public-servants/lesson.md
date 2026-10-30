@@ -3,7 +3,7 @@
 ![A Tool for Public Servants](01-a-tool-for-public-servants.png)
 
 Course: Claude for Office Holders
-Lesson: 01 of 05
+Lesson: 01 of 06
 Status: Draft
 Runtime: about 5 and a half minutes
 Image: 01-a-tool-for-public-servants.png

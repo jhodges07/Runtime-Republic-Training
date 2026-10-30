@@ -3,7 +3,7 @@
 ![Office-Holder Workflows and Cheat Codes](03-office-holder-workflows.png)
 
 Course: Claude for Office Holders
-Lesson: 03 of 05
+Lesson: 03 of 06
 Status: Draft
 Runtime: about 5 and a half minutes
 Image: 03-office-holder-workflows.png

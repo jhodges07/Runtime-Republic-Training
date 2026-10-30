@@ -3,7 +3,7 @@
 ![The Asynchronous Republic](05-the-asynchronous-republic.png)
 
 Course: Claude for Office Holders
-Lesson: 05 of 05
+Lesson: 05 of 06
 Status: Draft
 Runtime: about 5 minutes
 Image: 05-the-asynchronous-republic.png
@@ -59,7 +59,7 @@ This has been Runtime Republic. Find the essays, the projects, and ways to get i
 
 ### Continue reading
 
-[← Previous essay](../04-meeting-citizens-where-the-work-happens/lesson.md) · [Series index](../README.md)
+[← Previous essay](../04-meeting-citizens-where-the-work-happens/lesson.md) · [Series index](../README.md) · [Bonus essay →](../06-using-github-without-a-secret-meeting/lesson.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 
