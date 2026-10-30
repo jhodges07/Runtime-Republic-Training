@@ -4,7 +4,7 @@ Course: GitHub for Everyone
 Lesson: 05 of 07
 Status: Draft
 Runtime: about 7 minutes
-Image: Pending
+Image: 05-the-road-ahead.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
