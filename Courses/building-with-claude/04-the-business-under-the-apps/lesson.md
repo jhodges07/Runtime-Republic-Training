@@ -16,7 +16,7 @@ Welcome back to Runtime Republic. We have covered history, habits and workflows.
 
 A quick note before we start. I am not a lawyer or an accountant. Treat this as a checklist to bring to the official sources and, where needed, to a professional.
 
-Let's start with why this matters. Your phone app plan has a hinge in it. Alpha builds ship on your personal Apple account. Beta and final releases ship on the LLC's account. To enroll an organization in the Apple Developer Program, Apple checks that the company legally exists and that its name matches its records. That usually means a D-U-N-S number, a free business identifier from Dun and Bradstreet, under the exact legal name of your LLC. If the LLC is not in good standing, or the name does not match, your launch stalls. So the paperwork is not a side chore. It is on the critical path.
+Let's start with why this matters. Your phone app depends on it. Every release, starting with the very first alpha, will ship from the LLC's own Apple developer account, so testers never have to switch over later. To enroll an organization in the Apple Developer Program, Apple checks that the company legally exists and that its name matches its records. That usually means a D-U-N-S number, a free business identifier from Dun and Bradstreet, under the exact legal name of your LLC. If the LLC is not in good standing, or the name does not match, your first alpha waits. So the paperwork is not a side chore. It is on the critical path.
 
 Here is the checklist, in order. Think of it as CONTROL zero for the business.
 
