@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Checks every lesson against CONTROL 05 (header, status rules, image) and
+# Checks every lesson against CONTROL 05 (header, status rules, image shown) and
 # CONTROL 04 §3 (folder naming).
 #
 # Usage: scripts/check-lessons.sh [courses-dir]
@@ -56,6 +56,13 @@ for lesson in "$dir"/*/*/lesson.md; do
   image="$(field Image "$lesson")"
   podcast="$(field Podcast "$lesson")"
   approved="$(field "Approved by" "$lesson")"
+
+  # CONTROL 05 §5: once an image is named, the header must show it.
+  if [[ "$image" != "Pending" ]]; then
+    if ! awk -v img="$image" '/^---[[:space:]]*$/ { exit } index($0, "![") == 1 && index($0, "](" img ")") > 0 { found = 1 } END { exit !found }' "$lesson"; then
+      fail "$rel — header must show the image with a line like ![Title]($image) (CONTROL 05 §5)"
+    fi
+  fi
 
   case "$status" in
     Draft|Review) continue ;;

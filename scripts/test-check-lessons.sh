@@ -21,6 +21,7 @@ write_lesson() {
   {
     echo "# Test lesson"
     echo
+    if [[ "$3" != "Pending" && "${6:-}" != "NoEmbed" ]]; then echo "![Test lesson]($3)"; echo; fi
     echo "Course: Test Course"
     echo "Lesson: 01 of 01"
     [[ "${6:-}" != "Status" ]] && echo "Status: $2"
@@ -84,6 +85,14 @@ expect fail test_publishedWithoutRecording_fails
 
 write_lesson Bad_Folder Draft Pending "Not recorded" "—"
 expect fail test_badFolderName_fails
+
+write_lesson 01-not-shown Draft image.png "Not recorded" "—" NoEmbed
+touch "$tmp/Courses/test-course/01-not-shown/image.png"
+expect fail test_imageNamedButNotShown_fails
+
+write_lesson 01-shown Draft image.png "Not recorded" "—"
+touch "$tmp/Courses/test-course/01-shown/image.png"
+expect pass test_draftWithImageShown_passes
 
 echo
 echo "$passed passed, $failed failed."
