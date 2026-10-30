@@ -4,7 +4,7 @@
 
 Course: The One-Hour Rule
 Lesson: 05 of 05
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: 05-objections-and-hard-questions.png
 Podcast: Not recorded

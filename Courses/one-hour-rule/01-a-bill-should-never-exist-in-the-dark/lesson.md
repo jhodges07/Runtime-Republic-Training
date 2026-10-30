@@ -4,7 +4,7 @@
 
 Course: The One-Hour Rule
 Lesson: 01 of 05
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: 01-a-bill-should-never-exist-in-the-dark.png
 Podcast: Not recorded

@@ -4,7 +4,7 @@
 
 Course: The One-Hour Rule
 Lesson: 04 of 05
-Status: Draft
+Status: Review
 Runtime: about 3 and a half minutes
 Image: 04-what-it-would-take-legally.png
 Podcast: Not recorded

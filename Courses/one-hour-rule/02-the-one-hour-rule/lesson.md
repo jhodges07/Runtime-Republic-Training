@@ -4,7 +4,7 @@
 
 Course: The One-Hour Rule
 Lesson: 02 of 05
-Status: Draft
+Status: Review
 Runtime: about 3 and a half minutes
 Image: 02-the-one-hour-rule.png
 Podcast: Not recorded
