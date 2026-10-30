@@ -1,0 +1,90 @@
+#!/usr/bin/env bash
+# Proves scripts/check-lessons.sh catches every edge case in CONTROL 05 §7.
+# Builds throwaway lessons in a temp folder; touches nothing in the repository.
+#
+# Usage: scripts/test-check-lessons.sh
+
+set -uo pipefail
+
+root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+check="$root/scripts/check-lessons.sh"
+tmp="$(mktemp -d)"
+trap 'rm -rf "$tmp"' EXIT
+
+passed=0
+failed=0
+
+# write_lesson <folder> <status> <image> <podcast> <approved> [omit-key]
+write_lesson() {
+  local d="$tmp/Courses/test-course/$1"
+  mkdir -p "$d"
+  {
+    echo "# Test lesson"
+    echo
+    echo "Course: Test Course"
+    echo "Lesson: 01 of 01"
+    [[ "${6:-}" != "Status" ]] && echo "Status: $2"
+    echo "Runtime: about 6 minutes"
+    echo "Image: $3"
+    echo "Podcast: $4"
+    echo "Sources: None"
+    echo "Approved by: $5"
+    echo "License: CC BY 4.0"
+    echo
+    echo "---"
+    echo
+    echo "Lesson text."
+  } > "$d/lesson.md"
+}
+
+# expect <pass|fail> <name>
+expect() {
+  if "$check" "$tmp/Courses" > "$tmp/out.txt" 2>&1; then result=pass; else result=fail; fi
+  if [[ "$result" == "$1" ]]; then
+    echo "ok    $2"
+    passed=$((passed + 1))
+  else
+    echo "FAIL  $2 (expected $1, got $result)"
+    sed 's/^/      /' "$tmp/out.txt"
+    failed=$((failed + 1))
+  fi
+  rm -rf "$tmp/Courses"
+}
+
+write_lesson 01-draft Draft Pending "Not recorded" "—"
+expect pass test_draftWithPendingImage_passes
+
+write_lesson 01-approved Approved image.png "Not recorded" "Human Engineer, 2026-10-30"
+touch "$tmp/Courses/test-course/01-approved/image.png"
+expect pass test_approvedWithImageAndApprover_passes
+
+write_lesson 01-narrated Narrated image.png "Recorded 2026-11-01" "Human Engineer, 2026-10-30"
+touch "$tmp/Courses/test-course/01-narrated/image.png"
+expect pass test_narratedWithRecording_passes
+
+write_lesson 01-no-status Draft Pending "Not recorded" "—" Status
+expect fail test_missingHeaderLine_fails
+
+write_lesson 01-bad-status Finished Pending "Not recorded" "—"
+expect fail test_unknownStatus_fails
+
+write_lesson 01-no-image Approved Pending "Not recorded" "Human Engineer, 2026-10-30"
+expect fail test_approvedWithPendingImage_fails
+
+write_lesson 01-missing-file Approved image.png "Not recorded" "Human Engineer, 2026-10-30"
+expect fail test_approvedWithImageFileMissing_fails
+
+write_lesson 01-no-approver Approved image.png "Not recorded" "—"
+touch "$tmp/Courses/test-course/01-no-approver/image.png"
+expect fail test_approvedWithoutApprover_fails
+
+write_lesson 01-not-recorded Published image.png "Not recorded" "Human Engineer, 2026-10-30"
+touch "$tmp/Courses/test-course/01-not-recorded/image.png"
+expect fail test_publishedWithoutRecording_fails
+
+write_lesson Bad_Folder Draft Pending "Not recorded" "—"
+expect fail test_badFolderName_fails
+
+echo
+echo "$passed passed, $failed failed."
+[[ $failed -eq 0 ]]
