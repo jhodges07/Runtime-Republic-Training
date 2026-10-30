@@ -4,7 +4,7 @@
 
 Course: The One-Hour Rule
 Lesson: 03 of 05
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: 03-open-meetings-meet-open-repositories.png
 Podcast: Not recorded
