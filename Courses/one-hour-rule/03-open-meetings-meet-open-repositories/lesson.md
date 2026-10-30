@@ -4,12 +4,12 @@
 
 Course: The One-Hour Rule
 Lesson: 03 of 05
-Status: Review
+Status: Approved
 Runtime: about 3 minutes
 Image: 03-open-meetings-meet-open-repositories.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders
 

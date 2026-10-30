@@ -4,12 +4,12 @@
 
 Course: The One-Hour Rule
 Lesson: 05 of 05
-Status: Review
+Status: Approved
 Runtime: about 3 minutes
 Image: 05-objections-and-hard-questions.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders
 
