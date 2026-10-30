@@ -23,6 +23,7 @@ COMPLETED:
 - CONTROL 03, 10, 15, 16 scoped to Phase 3 (software)
 - Claude for Citizens course: 5 lessons in Draft, for citizens joining from Facebook or X
 - Claude for Office Holders course: 5 lessons in Draft, nonpartisan, for state and local elected officials
+- Claude for Office Holders bonus Lesson 06 (GitHub within the Open Meetings Act), Draft, image pending
 - Building With Claude course moved to private repo Lean-Office-Pro-LLC (business and developer content)
 - Course pages for AGCL (NBLF), NBBF, NBEF (planned)
 - GitHub for Everyone course: 7 lessons in Draft, 2 with images, brought over from PR #1 (closed)
