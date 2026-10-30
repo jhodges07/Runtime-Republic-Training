@@ -14,7 +14,7 @@ at the same time, to advance the ideals of the AGCL.
 | 03 | [The Toolbox, Learning the Words of GitHub](03-the-toolbox/lesson.md) | Draft | Done |
 | 04 | [Open Source, Building Things for Everyone](04-open-source/lesson.md) | Draft | Done |
 | 05 | [Robots, Helpers, and the Road Ahead](05-robots-helpers-road-ahead/lesson.md) | Draft | Done |
-| 06 | [Writing a Law the Way We Write Code](06-writing-a-law-like-code/lesson.md) (Bonus 1) | Draft | Pending |
+| 06 | [Writing a Law the Way We Write Code](06-writing-a-law-like-code/lesson.md) (Bonus 1) | Draft | Done |
 | 07 | [The Signal, a Phone App That Tells You When It's Your Turn](07-the-signal/lesson.md) (Bonus 2) | Draft | Pending |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
