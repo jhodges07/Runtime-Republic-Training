@@ -4,7 +4,7 @@ Course: Claude for Office Holders
 Lesson: 03 of 05
 Status: Draft
 Runtime: about 5 and a half minutes
-Image: Pending
+Image: 03-office-holder-workflows.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
