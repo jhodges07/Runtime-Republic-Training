@@ -2,7 +2,7 @@ CONTROL 02 — Development Phase Plan
 
 Version: 1.0
 Date: 2026-10-30
-Status: Authoritative (System-Wide)
+Status: Draft — pending Human Engineer approval
 Project: Runtime-Republic Training
 
 ---
@@ -18,36 +18,52 @@ previous phase's exit gate is met (CONTROL 11: incremental, single-threaded exec
 
 Deliverables:
 
-• CONTROL documents 00–04, 08, 10, 11, 14–16 filled in
-• Repository structure per CONTROL 04
-• Test harness and architecture guard tests (CONTROL 15)
-• CI running checks and tests on every push
+• CONTROL 00–02, 04, 05, 08, 11 and 14 filled in for a training repository
+• Course and lesson structure per CONTROL 04
+• `scripts/check-lessons.sh` and its test, run in CI on every push
+• README that works as a front door for learners; CC BY 4.0 license notice
 
-Exit gate: CI green; `scripts/check-controls.sh --strict` passes for the Phase 0 documents.
+Exit gate: CI green; Human Engineer approves CONTROL 01, 02, 04 and 05.
 
 ---
 
-# 3. Phase 1 — {{FILL: name, e.g. MVP}}
+# 3. Phase 1 — Curriculum
 
 Deliverables:
 
-{{FILL: bullet list}}
+• Course pages for AGCL (NBLF), NBBF, NBEF, Building With Claude, and GitHub & Asynchronous Collaboration
+• Lessons drafted, illustrated and approved per CONTROL 05
+• Image standards written (deferred by the Human Engineer until this phase)
 
-Exit gate: {{FILL: one measurable condition}}
+Exit gate: at least one full course has every lesson at `Status: Approved`.
 
 ---
 
-# 4. Phase 2 — {{FILL}}
+# 4. Phase 2 — Podcasts
 
 Deliverables:
 
-{{FILL}}
+• Approved lessons narrated exactly as written (Essay-Audio-Runtime)
+• A CONTROL document for audio: where episode files live, naming, and publishing to
+  RuntimeRepublic.com and BlueprintLiberty.com
 
-Exit gate: {{FILL}}
+Exit gate: one full course published as podcast episodes.
 
 ---
 
-# 5. Revision Policy
+# 5. Phase 3 — Bridge Software
+
+Deliverables:
+
+• A CONTROL document naming the first collaboration gap to close, chosen by the Human Engineer
+• CONTROL 03, 10, 15 and 16 filled in for the chosen language
+• Software built in layers, with tests, under those documents
+
+Exit gate: defined in the Phase 3 CONTROL document.
+
+---
+
+# 6. Revision Policy
 
 Phases may be reordered only by Human Engineer decision recorded in
 `Control/ARCHITECTURE_STATUS.md`.
