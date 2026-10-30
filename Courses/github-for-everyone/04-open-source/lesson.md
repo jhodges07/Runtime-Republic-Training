@@ -4,7 +4,7 @@ Course: GitHub for Everyone
 Lesson: 04 of 07
 Status: Draft
 Runtime: about 6 and a half minutes
-Image: Pending
+Image: 04-open-source.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
