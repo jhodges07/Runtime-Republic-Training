@@ -31,7 +31,7 @@ COMPLETED:
 - scripts/check-lessons.sh with 10 tests, run in CI
 - Learner README and CC BY 4.0 license notice
 - The One-Hour Rule course: 5 lessons in Draft, all 5 images added (Kansas bill transparency and KOMA)
-- Reading the Draft course (Long length): Lessons 01–02 in Draft, images pending
+- Reading the Draft course (Long length): Lesson 01 Approved by the Human Engineer (2026-10-30) with image; Lesson 02 in Draft, image pending
 
 NEXT:
 - Approve the Phase 0 CONTROL documents (exit gate, CONTROL 02 §2)
