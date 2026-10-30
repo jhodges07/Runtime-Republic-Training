@@ -1,10 +1,12 @@
 # A Safe Harbor for Working in the Open
 
+![A Safe Harbor for Working in the Open](01-a-safe-harbor-for-working-in-the-open.png)
+
 Course: Reading the Draft
 Lesson: 01 of 02
 Status: Review
 Runtime: about 12 minutes
-Image: Pending
+Image: 01-a-safe-harbor-for-working-in-the-open.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
