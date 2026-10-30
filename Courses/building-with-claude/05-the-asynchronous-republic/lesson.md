@@ -1,8 +1,13 @@
-# Episode 5: The Asynchronous Republic
+# The Asynchronous Republic
 
-Series: Building With Claude (5 of 5)
-Runtime: about 6 and a half minutes
+Course: Building With Claude
+Lesson: 05 of 05
 Status: Draft
+Runtime: about 6 and a half minutes
+Image: Pending
+Podcast: Not recorded
+Sources: None
+Approved by: —
 License: CC BY 4.0
 
 ---

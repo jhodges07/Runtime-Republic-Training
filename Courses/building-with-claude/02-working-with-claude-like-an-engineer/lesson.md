@@ -1,8 +1,13 @@
-# Episode 2: Working With Claude Like an Engineer
+# Working With Claude Like an Engineer
 
-Series: Building With Claude (2 of 5)
-Runtime: about 6 minutes
+Course: Building With Claude
+Lesson: 02 of 05
 Status: Draft
+Runtime: about 6 minutes
+Image: Pending
+Podcast: Not recorded
+Sources: None
+Approved by: —
 License: CC BY 4.0
 
 ---

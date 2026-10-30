@@ -1,8 +1,13 @@
-# Episode 1: From Turing to Claude
+# From Turing to Claude
 
-Series: Building With Claude (1 of 5)
-Runtime: about 6 minutes
+Course: Building With Claude
+Lesson: 01 of 05
 Status: Draft
+Runtime: about 6 minutes
+Image: Pending
+Podcast: Not recorded
+Sources: None
+Approved by: —
 License: CC BY 4.0
 
 ---

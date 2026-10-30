@@ -1,8 +1,13 @@
-# Episode 3: Workflows, Cheat Codes and Automations
+# Workflows, Cheat Codes and Automations
 
-Series: Building With Claude (3 of 5)
-Runtime: about 6 and a half minutes
+Course: Building With Claude
+Lesson: 03 of 05
 Status: Draft
+Runtime: about 6 and a half minutes
+Image: Pending
+Podcast: Not recorded
+Sources: None
+Approved by: —
 License: CC BY 4.0
 
 ---
