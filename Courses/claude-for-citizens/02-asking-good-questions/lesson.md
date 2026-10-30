@@ -4,7 +4,7 @@ Course: Claude for Citizens
 Lesson: 02 of 05
 Status: Draft
 Runtime: about 5 minutes
-Image: Pending
+Image: 02-asking-good-questions.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
