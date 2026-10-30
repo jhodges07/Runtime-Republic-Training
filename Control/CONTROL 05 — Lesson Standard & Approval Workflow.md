@@ -1,9 +1,9 @@
 CONTROL 05 — Lesson Standard & Approval Workflow
 
-Version: 1.1
+Version: 1.2
 Date: 2026-10-30
 Status: Draft — pending Human Engineer approval
-Change: 1.1 shows the supporting image at the top of the lesson page (§3, §5, §7), at the Human Engineer's request.
+Change: 1.2 offers three lesson lengths per series: Short, Standard and Long (§6), at the Human Engineer's request. 1.1 showed the supporting image at the top of the lesson page (§3, §5, §7).
 Project: Runtime-Republic Training
 
 ---
@@ -93,7 +93,10 @@ Lessons become podcasts, so they are written to be heard:
 • Short sentences; plain words.
 • No tables, footnotes or "see above" references inside the essay text.
 • Each lesson ends with a short recap, so a listener can join at any lesson.
-• About 850–1,000 words for 5–7 minutes at roughly 150 words a minute.
+• Each series uses one of three lengths, at roughly 150 words a minute:
+    – Short: about 3 minutes, 400–550 words.
+    – Standard: 5–7 minutes, 850–1,000 words.
+    – Long: 10–12 minutes, 1,500–1,800 words.
 
 ---
 
