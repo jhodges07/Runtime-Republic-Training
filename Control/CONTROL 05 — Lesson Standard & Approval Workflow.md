@@ -1,8 +1,9 @@
 CONTROL 05 — Lesson Standard & Approval Workflow
 
-Version: 1.0
+Version: 1.1
 Date: 2026-10-30
 Status: Draft — pending Human Engineer approval
+Change: 1.1 shows the supporting image at the top of the lesson page (§3, §5, §7), at the Human Engineer's request.
 Project: Runtime-Republic Training
 
 ---
@@ -29,6 +30,8 @@ Every `lesson.md` starts with this block, before the essay text:
 ```
 # <Lesson title>
 
+![<Lesson title>](<image file>)      ← only once the image exists
+
 Course: <course name>
 Lesson: <NN> of <total>
 Status: Draft | Review | Approved | Narrated | Published
@@ -42,7 +45,9 @@ License: CC BY 4.0
 ---
 ```
 
-The essay text follows the `---` line.
+The essay text follows the `---` line. The image line sits in the header, above the `---`,
+so the lesson page shows the picture with the essay while narration, which reads only the
+text after `---`, is unchanged.
 
 ---
 
@@ -72,6 +77,8 @@ names others.
 
 • Every lesson needs a supporting image before it can be Approved.
 • The image lives in the lesson's own folder and is named in the `Image:` line.
+• Once the image exists, the header also shows it with `![<Lesson title>](<image file>)`
+  under the title, so one link shows the picture and the essay together.
 • BlueprintLiberty.com appears at the bottom center of the image, with
   RuntimeRepublic.com on the line directly below it.
 • Full image standards (size, style, format) are deferred by the Human Engineer to
@@ -98,6 +105,7 @@ Lessons become podcasts, so they are written to be heard:
 | Status not one of the five values | `check-lessons.sh` fails |
 | Approved or later with `Image: Pending` | `check-lessons.sh` fails |
 | `Image:` names a file that is not in the lesson folder | `check-lessons.sh` fails |
+| `Image:` names a file but the header does not show it | `check-lessons.sh` fails |
 | Approved or later with `Approved by: —` | `check-lessons.sh` fails |
 | Narrated or later with `Podcast: Not recorded` | `check-lessons.sh` fails |
 | Lesson folder not named `NN-lowercase-title` | `check-lessons.sh` fails |
