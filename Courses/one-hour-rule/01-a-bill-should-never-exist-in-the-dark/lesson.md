@@ -21,13 +21,13 @@ Here is a real example. In 2017, Kansas passed a new formula for funding its pub
 
 Conference committees are where the final decisions get made. A few members from the House and a few from the Senate meet to settle their differences. Once they agree, each chamber votes the report up or down, and no amendments are allowed. These meetings take no public testimony and have no agenda. They are often scheduled with little notice, and they sometimes run late into the night.
 
-The Legislature does have a rule about when conference reports may be taken up, called Joint Rule Four K. But the bill histories show lawmakers voting to suspend that rule so a report can be considered right away. It happened in 2011, and again in 2018. A safeguard that can be waived by a vote at the very moment it matters is not much of a safeguard.
+The Legislature does have a rule about this, called Joint Rule Three F. It says copies of a conference committee report must be available to members thirty minutes before the report is considered. Thirty minutes is not much time to read a final bill. And even that short wait can be set aside by a two-thirds vote of the members present. A safeguard that can be waived by a vote at the very moment it matters is not much of a safeguard.
 
 None of this requires bad intent. Legislative leaders have defended the gut and go as a useful tool. One House majority leader put the challenge plainly: if you eliminate it, you have to replace it with something that lets the system keep working.
 
 This series accepts that challenge. The replacement is not a ban on fast work. It is a simple rule. Every version of every bill must be public, timestamped and permanent before anyone acts on it.
 
-Let's recap. Kansans pay for every law, but they often cannot read a bill before it is decided. The gut and go hides new text inside old bill numbers. Conference committees make final decisions with little notice and no amendments. And the rule meant to slow them down can be suspended by a vote. The answer this series proposes is a simple one: no bill in the dark.
+Let's recap. Kansans pay for every law, but they often cannot read a bill before it is decided. The gut and go hides new text inside old bill numbers. Conference committees make final decisions with little notice and no amendments. And the only waiting rule gives members thirty minutes, which two-thirds of them can waive. The answer this series proposes is a simple one: no bill in the dark.
 
 In the next essay, we'll look at that rule up close, and how anyone could check that it was followed.
 
