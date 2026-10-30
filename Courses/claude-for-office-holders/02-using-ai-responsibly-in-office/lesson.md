@@ -4,7 +4,7 @@ Course: Claude for Office Holders
 Lesson: 02 of 05
 Status: Draft
 Runtime: about 5 and a half minutes
-Image: Pending
+Image: 02-using-ai-responsibly.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
