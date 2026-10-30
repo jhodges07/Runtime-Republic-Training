@@ -68,3 +68,34 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 |---|---|
 | Since July 1, 2016, Kansas "public records" include official-business records on personal devices and private accounts (K.S.A. 45-217(g)(1)); KORA exceptions still apply | [KU Public Affairs: KORA update, 2016](https://publicaffairs.ku.edu/kansas-open-records-act-kora-update) · [KLRD: Kansas Open Records Act](https://klrd.gov/publications/briefing-book-2021/kansas-open-records-act/) |
 | A series of interactive communications is subject to KOMA if it collectively involves a majority of the body's membership, shares a common topic of the body's business, and is intended by any participant to reach agreement on a matter requiring binding action (K.S.A. 75-4318(f)); KOMA covers the Legislature (unless its rules provide otherwise), counties, cities and school districts | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |
+
+---
+
+## The One-Hour Rule
+
+### Lesson 01 — A Bill Should Never Exist in the Dark
+
+| Fact | Source |
+|---|---|
+| Gut and go moves new text into an unrelated bill; conference committees take no testimony and are often scheduled with little notice | [The Beacon: guide to the Kansas Legislature](https://thebeaconnews.org/?p=12139) |
+| 2017 school finance formula passed in a bill that had been about insurance regulation | [KMUW, 2018-03-02](https://www.kmuw.org/government/2018-03-02/in-kansas-maligned-gut-and-go-tactic-gets-laws-enacted) |
+| Conference reports are voted up or down with no amendments | [Foulston: Kansas Legislative Insights, 2026-03-23](https://foulston.com/resources/kansas-legislative-insights-newsletter-march-23-2026) |
+| Motions to suspend Joint Rule 4(k) to allow consideration of conference reports, 2011 and 2018 | [HB 2010 history (2011)](https://www.kslegislature.gov/li_2012/b2011_12/measures/hb2010/) · [HB 2577 history (2018)](https://kslegislature.org/li_2018/b2017_18/measures/HB2577) |
+| A House majority leader defended the gut and go and said it would need a replacement | [Lawrence Journal-World](https://www2.ljworld.com/news/2002/feb/22/russians_threaten_to_leave/) |
+
+### Lesson 03 — Open Meetings Meet Open Repositories
+
+| Fact | Source |
+|---|---|
+| Definition of "meeting" under KOMA | [K.S.A. 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/) |
+| Interactive communication requires a mutual exchange between members | [Attorney General Opinion 2009-22](https://ksag.washburnlaw.edu/opinions/2009/2009-022.htm) |
+| Interactive communication need not be in real time | [Attorney General Opinion 98-26](https://ksag.washburnlaw.edu/opinions/1998/1998-026.htm) |
+| Two-way internet forums may be meetings; a one-way email generally is not (January 2025) | [Revisor of Statutes memo, 2025-01-21](https://kslegislature.gov/li/b2025_26/committees/ctte_h_trnsprt_1/documents/testimony/20250121_02.pdf) |
+
+### Lesson 04 — What It Would Take Legally
+
+| Fact | Source |
+|---|---|
+| Each house determines the rules of its proceedings (Kansas Constitution, Article 2, Section 8) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
+| Amendments need two-thirds of all members of each house, then a majority of electors voting on them (Article 14, Section 1) | [Kansas Constitution, Article 14, Section 1 (Revisor)](https://ksrevisor.gov/kanconst/093_014_0001.html) |
+| 2025 open-government law (effective July 1, 2025) requires bodies that live stream meetings to let the public observe | [Lawrence Journal-World, 2025-04-09](https://www2.ljworld.com/news/2025/apr/09/new-state-law-will-require-lawrence-city-commission-to-change-how-it-handles-public-comments-in-its-live-streams/) |
