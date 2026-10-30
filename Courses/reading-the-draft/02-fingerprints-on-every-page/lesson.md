@@ -4,12 +4,12 @@
 
 Course: Reading the Draft
 Lesson: 02 of 02
-Status: Review
+Status: Approved
 Runtime: about 11 minutes
 Image: 02-fingerprints-on-every-page.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders; follows Reading the Draft, Lesson 01
 
