@@ -29,14 +29,15 @@ Architecture governs code. Code does not govern architecture.
 [Layer] - [Action] - [Object]
 ```
 
-Layers: `Domain`, `Logic`, `Application`, `Infrastructure`, `Presentation`, `Control`, `CI`, `Repo`
-{{FILL: rename to match CONTROL 10 if layers differ}}
+Layers: `Lesson`, `Course`, `Control`, `CI`, `Repo`, and from Phase 3 the software layers `Domain`, `Logic`, `Application`, `Infrastructure`, `Presentation`
 
 Actions: `Added`, `Updated`, `Fixed`, `Removed`, `Refactored`
 
 Examples:
 
 ```
+[Lesson] - Added - Building With Claude 01 From Turing to Claude
+[Course] - Added - NBBF course page
 [Logic] - Added - OrderTotalCalculator
 [Infrastructure] - Fixed - Null handling in OrderRepository
 [Control] - Updated - CONTROL 05 to v1.1
