@@ -13,7 +13,8 @@ Project: Runtime-Republic Training
 Runtime-Republic Training/
 │
 ├── README.md                 Front door for learners: courses and where to start
-├── LICENSE.md                CC BY 4.0 notice for all training material
+├── LICENSE                   CC BY 4.0 legal text for all training material
+├── SOURCES.md                Links behind the dated and numeric facts in lessons
 ├── CLAUDE.md                 AI assistant rules (CONTROL 08)
 │
 ├── Courses/

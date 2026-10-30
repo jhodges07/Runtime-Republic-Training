@@ -31,7 +31,7 @@ Exit gate: CI green; Human Engineer approves CONTROL 01, 02, 04 and 05.
 
 Deliverables:
 
-• Course pages for AGCL (NBLF), NBBF, NBEF, Building With Claude, and GitHub & Asynchronous Collaboration
+• Course pages for GitHub for Everyone, Building With Claude, AGCL (NBLF), NBBF and NBEF
 • Lessons drafted, illustrated and approved per CONTROL 05
 • Image standards written (deferred by the Human Engineer until this phase)
 
