@@ -1,9 +1,9 @@
 CONTROL 14 — Source Control & Commit Governance
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-10-30
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
 
 ---
 
