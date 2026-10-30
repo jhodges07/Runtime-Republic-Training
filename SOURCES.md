@@ -69,6 +69,15 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Since July 1, 2016, Kansas "public records" include official-business records on personal devices and private accounts (K.S.A. 45-217(g)(1)); KORA exceptions still apply | [KU Public Affairs: KORA update, 2016](https://publicaffairs.ku.edu/kansas-open-records-act-kora-update) · [KLRD: Kansas Open Records Act](https://klrd.gov/publications/briefing-book-2021/kansas-open-records-act/) |
 | A series of interactive communications is subject to KOMA if it collectively involves a majority of the body's membership, shares a common topic of the body's business, and is intended by any participant to reach agreement on a matter requiring binding action (K.S.A. 75-4318(f)); KOMA covers the Legislature (unless its rules provide otherwise), counties, cities and school districts | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |
 
+### Lesson 06 — Using GitHub Without Holding a Secret Meeting
+
+| Fact | Source |
+|---|---|
+| A KOMA meeting includes any medium for interactive communication by a majority of the body | [K.S.A. 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/) |
+| Interactive communication requires a mutual exchange between members, and need not be in real time | [AG Opinion 2009-22](https://ksag.washburnlaw.edu/opinions/2009/2009-022.htm) · [AG Opinion 98-26](https://ksag.washburnlaw.edu/opinions/1998/1998-026.htm) |
+| Two-way internet forums may be meetings; a one-way email generally is not (January 2025) | [Revisor of Statutes memo, 2025-01-21](https://kslegislature.gov/li/b2025_26/committees/ctte_h_trnsprt_1/documents/testimony/20250121_02.pdf) |
+| KOMA notice goes to anyone who requests it (K.S.A. 75-4318(b)); serial communications rule (K.S.A. 75-4318(f)) | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |
+
 ---
 
 ## The One-Hour Rule
