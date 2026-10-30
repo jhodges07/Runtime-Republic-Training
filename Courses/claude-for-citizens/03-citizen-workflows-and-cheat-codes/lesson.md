@@ -1,5 +1,7 @@
 # Citizen Workflows and Cheat Codes
 
+![Citizen Workflows and Cheat Codes](03-citizen-workflows.png)
+
 Course: Claude for Citizens
 Lesson: 03 of 05
 Status: Draft

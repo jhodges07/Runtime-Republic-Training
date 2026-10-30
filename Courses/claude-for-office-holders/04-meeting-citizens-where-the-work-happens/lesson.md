@@ -1,5 +1,7 @@
 # Meeting Citizens Where the Work Happens
 
+![Meeting Citizens Where the Work Happens](04-meeting-citizens.png)
+
 Course: Claude for Office Holders
 Lesson: 04 of 05
 Status: Draft

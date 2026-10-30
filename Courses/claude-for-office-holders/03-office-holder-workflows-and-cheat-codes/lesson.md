@@ -1,5 +1,7 @@
 # Office-Holder Workflows and Cheat Codes
 
+![Office-Holder Workflows and Cheat Codes](03-office-holder-workflows.png)
+
 Course: Claude for Office Holders
 Lesson: 03 of 05
 Status: Draft
