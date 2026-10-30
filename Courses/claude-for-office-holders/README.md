@@ -14,7 +14,7 @@ Nonpartisan. No technical background needed. Examples use Kansas law; this is no
 | 03 | [Office-Holder Workflows and Cheat Codes](03-office-holder-workflows-and-cheat-codes/lesson.md) | Draft | Agenda packets, budgets, bills and ordinances, constituent mail, explaining your votes |
 | 04 | [Meeting Citizens Where the Work Happens](04-meeting-citizens-where-the-work-happens/lesson.md) | Draft | How citizens organize with AI and GitHub, and how officials can engage within the rules |
 | 05 | [The Asynchronous Republic](05-the-asynchronous-republic/lesson.md) | Draft | Open, year-round public work, with every decision still made by accountable officials |
-| 06 | [Using GitHub Without Holding a Secret Meeting](06-using-github-without-a-secret-meeting/lesson.md) (Bonus) | Draft | Five habits for taking part in public GitHub projects within the Open Meetings Act |
+| 06 | [Using GitHub Without Holding a Secret Meeting](06-using-github-without-a-secret-meeting/lesson.md) (Bonus) | Approved | Five habits for taking part in public GitHub projects within the Open Meetings Act |
 
 Legal sources behind Lessons 02 and 06: [SOURCES.md](../../SOURCES.md).
 
