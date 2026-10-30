@@ -30,7 +30,7 @@ COMPLETED:
 - SOURCES.md and official CC BY 4.0 LICENSE brought over from PR #1
 - scripts/check-lessons.sh with 10 tests, run in CI
 - Learner README and CC BY 4.0 license notice
-- The One-Hour Rule course: 5 lessons in Draft, images pending (Kansas bill transparency and KOMA)
+- The One-Hour Rule course: 5 lessons in Draft, all 5 images added (Kansas bill transparency and KOMA)
 
 NEXT:
 - Approve the Phase 0 CONTROL documents (exit gate, CONTROL 02 §2)

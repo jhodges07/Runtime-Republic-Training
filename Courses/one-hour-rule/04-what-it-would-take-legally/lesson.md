@@ -1,10 +1,12 @@
 # What It Would Take Legally
 
+![What It Would Take Legally](04-what-it-would-take-legally.png)
+
 Course: The One-Hour Rule
 Lesson: 04 of 05
 Status: Draft
 Runtime: about 3 and a half minutes
-Image: Pending
+Image: 04-what-it-would-take-legally.png
 Podcast: Not recorded
 Sources: None
 Approved by: —

@@ -10,11 +10,11 @@ Civic and non-partisan: it argues for a process, not for any party's bills.
 
 | # | Lesson | Status | Image |
 |---|---|---|---|
-| 01 | [A Bill Should Never Exist in the Dark](01-a-bill-should-never-exist-in-the-dark/lesson.md) | Draft | Pending |
-| 02 | [The One-Hour Rule](02-the-one-hour-rule/lesson.md) | Draft | Pending |
-| 03 | [Open Meetings Meet Open Repositories](03-open-meetings-meet-open-repositories/lesson.md) | Draft | Pending |
-| 04 | [What It Would Take Legally](04-what-it-would-take-legally/lesson.md) | Draft | Pending |
-| 05 | [Objections and Hard Questions](05-objections-and-hard-questions/lesson.md) | Draft | Pending |
+| 01 | [A Bill Should Never Exist in the Dark](01-a-bill-should-never-exist-in-the-dark/lesson.md) | Draft | Done |
+| 02 | [The One-Hour Rule](02-the-one-hour-rule/lesson.md) | Draft | Done |
+| 03 | [Open Meetings Meet Open Repositories](03-open-meetings-meet-open-repositories/lesson.md) | Draft | Done |
+| 04 | [What It Would Take Legally](04-what-it-would-take-legally/lesson.md) | Draft | Done |
+| 05 | [Objections and Hard Questions](05-objections-and-hard-questions/lesson.md) | Draft | Done |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 

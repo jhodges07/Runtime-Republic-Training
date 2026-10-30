@@ -1,10 +1,12 @@
 # Objections and Hard Questions
 
+![Objections and Hard Questions](05-objections-and-hard-questions.png)
+
 Course: The One-Hour Rule
 Lesson: 05 of 05
 Status: Draft
 Runtime: about 3 minutes
-Image: Pending
+Image: 05-objections-and-hard-questions.png
 Podcast: Not recorded
 Sources: None
 Approved by: —

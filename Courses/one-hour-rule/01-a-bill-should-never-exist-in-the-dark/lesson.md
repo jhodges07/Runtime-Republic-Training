@@ -1,10 +1,12 @@
 # A Bill Should Never Exist in the Dark
 
+![A Bill Should Never Exist in the Dark](01-a-bill-should-never-exist-in-the-dark.png)
+
 Course: The One-Hour Rule
 Lesson: 01 of 05
 Status: Draft
 Runtime: about 3 minutes
-Image: Pending
+Image: 01-a-bill-should-never-exist-in-the-dark.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
