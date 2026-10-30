@@ -12,6 +12,8 @@ Lessons are written as essays, then narrated word for word as podcast episodes.
 
 ## Start here
 
+**[Browse all series and essays](Courses/README.md)**
+
 New to all of this? Take the courses in this order:
 
 1. [GitHub for Everyone](Courses/github-for-everyone/README.md): what GitHub is and how people build things together on it, from a beginner level up

@@ -1,4 +1,6 @@
-# Courses
+# All Series
+
+Choose a series below, then follow its essays in reading order. Each essay ends with previous/next links and a link back to this catalog. Planned series have no essays yet.
 
 | Course | Status | What it teaches |
 |---|---|---|

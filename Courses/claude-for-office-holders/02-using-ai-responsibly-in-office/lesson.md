@@ -50,3 +50,15 @@ Let's recap. Assume it is a public record. Do not let AI become a back channel. 
 In Episode 3, we put AI to work on the real tasks of office: agenda packets, budgets, bills, constituent mail, and explaining your votes.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../01-a-tool-for-public-servants/lesson.md) · [Series index](../README.md) · [Next essay →](../03-office-holder-workflows-and-cheat-codes/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

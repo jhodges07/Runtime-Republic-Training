@@ -47,3 +47,15 @@ But there's still one missing piece. A public repository only helps if people kn
 That's the question for our next essay. We'll look at a phone app that works like a signal flare, one that sends an alert only to the people in the exact voting districts a bill affects, without ever knowing their home address, and turns staying informed into a five-minute monthly habit.
 
 Here's your thinking question. If you could see every change ever made to a law, and the reason behind it, what's the first law you'd want to look at?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../05-robots-helpers-road-ahead/lesson.md) · [Series index](../README.md) · [Next essay →](../07-the-signal/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

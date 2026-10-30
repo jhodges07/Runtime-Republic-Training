@@ -18,3 +18,7 @@ Nonpartisan. No technical background needed. Examples use Kansas law; this is no
 Legal sources behind Lesson 02: [SOURCES.md](../../SOURCES.md).
 
 Citizens' version of this course: [Claude for Citizens](../claude-for-citizens/README.md).
+
+---
+
+[All series in this repository](../README.md) · [Repository home](../../README.md)

@@ -58,3 +58,15 @@ Let's recap. Read, question, verify, decide. Five workflows: agenda packets, bud
 So far, everything in this series is something you do in your own office. In Episode 4, we look outward: how citizens are starting to use these same tools to organize, research and propose, and how office holders can meet them where that work is happening.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../02-using-ai-responsibly-in-office/lesson.md) · [Series index](../README.md) · [Next essay →](../04-meeting-citizens-where-the-work-happens/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

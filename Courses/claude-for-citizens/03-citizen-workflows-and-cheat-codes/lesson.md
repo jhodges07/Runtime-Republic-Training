@@ -62,3 +62,15 @@ Let's recap. Find, understand, check, act. Five workflows: read a bill, follow a
 So far, everything in this series is something you can do alone. In Episode 4, we take the next step: moving from scrolling past problems on social media to working on them together, in a place built for getting things done.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../02-asking-good-questions/lesson.md) · [Series index](../README.md) · [Next essay →](../04-from-scrolling-to-participating/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

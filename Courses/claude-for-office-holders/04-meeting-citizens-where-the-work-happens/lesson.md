@@ -52,3 +52,15 @@ Let's recap. Social media spreads alarm; organized projects produce proposals. P
 In our final episode, we put it together: what government looks like when citizens and office holders can work on the same problems, in the open, on their own schedules, with every decision still made by the people accountable for it.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../03-office-holder-workflows-and-cheat-codes/lesson.md) · [Series index](../README.md) · [Next essay →](../05-the-asynchronous-republic/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

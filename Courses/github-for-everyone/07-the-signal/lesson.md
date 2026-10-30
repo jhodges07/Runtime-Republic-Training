@@ -49,3 +49,15 @@ So let's bring our whole series together. Git is the magical save button. GitHub
 The tools are not the point. People are the point. A repository can hold a perfect draft, and a phone can deliver a perfect alert, but neither one matters until a person decides to show up, read, ask a question, and speak.
 
 Here's your final thinking question for the series. If your phone tapped you on the shoulder once a month and said, here's where your money went, what do you think you'd want to do next?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../06-writing-a-law-like-code/lesson.md) · [Series index](../README.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

@@ -21,3 +21,7 @@ Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 
 Next course: [Claude for Citizens](../claude-for-citizens/README.md), especially
 [Lesson 05, The Asynchronous Republic](../claude-for-citizens/05-the-asynchronous-republic/lesson.md).
+
+---
+
+[All series in this repository](../README.md) · [Repository home](../../README.md)

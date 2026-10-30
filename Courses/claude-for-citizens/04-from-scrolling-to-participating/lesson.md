@@ -54,3 +54,15 @@ Let's recap. Social media is great for finding people and bad for deciding thing
 In our final episode, we put it all together: how a group of citizens, each with their own AI assistant, can work on something important together without ever having to be in the same room at the same time.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../03-citizen-workflows-and-cheat-codes/lesson.md) · [Series index](../README.md) · [Next essay →](../05-the-asynchronous-republic/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->
