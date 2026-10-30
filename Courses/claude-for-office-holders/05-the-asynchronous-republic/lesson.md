@@ -1,5 +1,7 @@
 # The Asynchronous Republic
 
+![The Asynchronous Republic](05-the-asynchronous-republic.png)
+
 Course: Claude for Office Holders
 Lesson: 05 of 05
 Status: Draft

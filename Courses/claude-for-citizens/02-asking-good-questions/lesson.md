@@ -1,5 +1,7 @@
 # Asking Good Questions
 
+![Asking Good Questions](02-asking-good-questions.png)
+
 Course: Claude for Citizens
 Lesson: 02 of 05
 Status: Draft
