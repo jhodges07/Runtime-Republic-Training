@@ -26,7 +26,7 @@ Software comes later (CONTROL 02, Phase 3).
 
 ## Commits (CONTROL 14)
 - One logical change per commit: `[Layer] - [Action] - [Object]`
-  e.g. `[Lesson] - Added - Building With Claude 01 From Turing to Claude`
+  e.g. `[Lesson] - Added - Claude for Citizens 01 From Turing to Your Kitchen Table`
 
 ## CONTROL documents (CONTROL 04 §3)
 - New documents start from `Control/_TEMPLATE — New CONTROL Document.md`.

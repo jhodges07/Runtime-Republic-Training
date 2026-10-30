@@ -57,15 +57,3 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 |---|---|
 | Address-to-district lookup by the U.S. Census Bureau | [Census Geocoder](https://geocoding.geo.census.gov/geocoder/) |
 | Liberty Cadence design and status (as of 2026-10-28) | Private repository `District-Alerts-iOS`, CONTROL 01, 07 and 17 and `ARCHITECTURE_STATUS.md` |
-
----
-
-## Building With Claude
-
-### Lesson 04 — The Business Under the Apps
-
-| Fact | Source |
-|---|---|
-| Kansas LLC annual report form | [Kansas Secretary of State](https://sos.ks.gov/forms/business_services/LC.pdf) |
-| Annual report due the 15th day of the 4th month after fiscal year end (April 15 for calendar-year LLCs) | [Business Anywhere](https://businessanywhere.io/kansas-llc-annual-report/) |
-| Kansas reinstatement process | [Harbor Compliance](https://www.harborcompliance.com/information/reinstate-revive-kansas-llc) |

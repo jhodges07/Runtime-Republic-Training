@@ -19,5 +19,5 @@ at the same time, to advance the ideals of the AGCL.
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 
-Next course: [Building With Claude](../building-with-claude/README.md), especially
-[Lesson 05, The Asynchronous Republic](../building-with-claude/05-the-asynchronous-republic/lesson.md).
+Next course: [Claude for Citizens](../claude-for-citizens/README.md), especially
+[Lesson 05, The Asynchronous Republic](../claude-for-citizens/05-the-asynchronous-republic/lesson.md).
