@@ -13,7 +13,7 @@ repositories do.
 
 CURRENT PRIORITIES:
 - Human Engineer reviews and approves CONTROL 01, 02, 04 and 05 (all Draft)
-- Supporting images for the five Building With Claude lessons
+- Supporting images: 5 Building With Claude lessons and 5 GitHub for Everyone lessons still pending
 - Human Engineer sets lesson lists for the planned courses
 
 COMPLETED:
@@ -22,7 +22,9 @@ COMPLETED:
 - CONTROL 01, 02, 04 drafted; CONTROL 05 Lesson Standard added
 - CONTROL 03, 10, 15, 16 scoped to Phase 3 (software)
 - Building With Claude course: 5 lessons in Draft
-- Course pages for AGCL (NBLF), NBBF, NBEF, GitHub & Asynchronous Collaboration (planned)
+- Course pages for AGCL (NBLF), NBBF, NBEF (planned)
+- GitHub for Everyone course: 7 lessons in Draft, 2 with images, brought over from PR #1 (closed)
+- SOURCES.md and official CC BY 4.0 LICENSE brought over from PR #1
 - scripts/check-lessons.sh with 10 tests, run in CI
 - Learner README and CC BY 4.0 license notice
 
@@ -40,7 +42,8 @@ DECISIONS LOG:
 | 2026-10-30 | Training material is not authority; canonical control repositories win | CONTROL 01 §6 |
 | 2026-10-30 | Human Engineer is sole lesson approver (assumed; confirm) | CONTROL 05 §4 |
 | 2026-10-30 | Image standards deferred to Phase 1 | CONTROL 05 §5 |
-| 2026-10-30 | Software license not yet chosen; decide before Phase 3 | LICENSE.md |
+| 2026-10-30 | Software license not yet chosen; decide before Phase 3 | README.md (License) |
+| 2026-10-30 | PR #1 (essay setup) superseded by the merged course structure; its essays, images, LICENSE and SOURCES.md moved in, PR #1 closed | PR #3 |
 
 VERIFICATION LOG:
 
@@ -49,3 +52,4 @@ VERIFICATION LOG:
 | 2026-10-30 | Phase 0 PR | scripts/test-check-lessons.sh | 10 passed, 0 failed |
 | 2026-10-30 | Phase 0 PR | scripts/check-lessons.sh | 5 lessons, 0 errors |
 | 2026-10-30 | Phase 0 PR | scripts/check-controls.sh | 0 errors; warnings only in Phase 3 documents |
+| 2026-10-30 | PR #3 | scripts/check-lessons.sh | 12 lessons, 0 errors |
