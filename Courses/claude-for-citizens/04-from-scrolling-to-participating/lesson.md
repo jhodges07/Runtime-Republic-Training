@@ -4,7 +4,7 @@ Course: Claude for Citizens
 Lesson: 04 of 05
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 04-from-scrolling-to-participating.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
