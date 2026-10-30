@@ -71,7 +71,7 @@ The goal isn't to hide anything. It's the opposite. It's to make working in publ
 
 One update since this essay was first written. The draft has been revised to add both of the fixes we talked about. Anyone can now subscribe, free, to notices of new comments on a measure. And the safe harbor now clearly covers the serial-communications rule too.
 
-Before we go, one question for you. Every bill needs a name, and this one's working title is plain: the One-Hour Rule Act. Here are three ideas. The Open Harbor Act. The Liberty Ledger Act. The Daylight Democracy Act. Which would you choose? Or what would you call it?
+Before we go, one question for you. Every bill needs a name. This one's working title is the One-Hour Rule Act. Here are three ideas. The Safe Harbor for 10x Liberty Act. The Open Harbor Act. The Democracy Harbor Act. Which would you choose? Or what would you call it?
 
 This has been Runtime Republic. Find the essays, the projects, and ways to get involved at BlueprintLiberty.com and RuntimeRepublic.com. Thanks for listening.
 
