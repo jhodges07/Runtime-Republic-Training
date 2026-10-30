@@ -13,7 +13,7 @@ repositories do.
 
 CURRENT PRIORITIES:
 - Human Engineer reviews and approves CONTROL 01, 02, 04 and 05 (all Draft)
-- Supporting images: 5 Claude for Citizens lessons and 5 GitHub for Everyone lessons still pending
+- Supporting images: 5 Claude for Citizens, 5 Claude for Office Holders and 5 GitHub for Everyone lessons still pending
 - Human Engineer sets lesson lists for the planned courses
 
 COMPLETED:
@@ -22,6 +22,7 @@ COMPLETED:
 - CONTROL 01, 02, 04 drafted; CONTROL 05 Lesson Standard added
 - CONTROL 03, 10, 15, 16 scoped to Phase 3 (software)
 - Claude for Citizens course: 5 lessons in Draft, for citizens joining from Facebook or X
+- Claude for Office Holders course: 5 lessons in Draft, nonpartisan, for state and local elected officials
 - Building With Claude course moved to private repo Lean-Office-Pro-LLC (business and developer content)
 - Course pages for AGCL (NBLF), NBBF, NBEF (planned)
 - GitHub for Everyone course: 7 lessons in Draft, 2 with images, brought over from PR #1 (closed)
@@ -56,3 +57,4 @@ VERIFICATION LOG:
 | 2026-10-30 | Phase 0 PR | scripts/check-controls.sh | 0 errors; warnings only in Phase 3 documents |
 | 2026-10-30 | PR #3 | scripts/check-lessons.sh | 12 lessons, 0 errors |
 | 2026-10-30 | PR #5 | scripts/check-lessons.sh | 12 lessons, 0 errors |
+| 2026-10-30 | PR #6 | scripts/check-lessons.sh | 17 lessons, 0 errors |

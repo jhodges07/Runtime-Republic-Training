@@ -57,3 +57,14 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 |---|---|
 | Address-to-district lookup by the U.S. Census Bureau | [Census Geocoder](https://geocoding.geo.census.gov/geocoder/) |
 | Liberty Cadence design and status (as of 2026-10-28) | Private repository `District-Alerts-iOS`, CONTROL 01, 07 and 17 and `ARCHITECTURE_STATUS.md` |
+
+---
+
+## Claude for Office Holders
+
+### Lesson 02 — Using AI Responsibly in Office
+
+| Fact | Source |
+|---|---|
+| Since July 1, 2016, Kansas "public records" include official-business records on personal devices and private accounts (K.S.A. 45-217(g)(1)); KORA exceptions still apply | [KU Public Affairs: KORA update, 2016](https://publicaffairs.ku.edu/kansas-open-records-act-kora-update) · [KLRD: Kansas Open Records Act](https://klrd.gov/publications/briefing-book-2021/kansas-open-records-act/) |
+| A series of interactive communications is subject to KOMA if it collectively involves a majority of the body's membership, shares a common topic of the body's business, and is intended by any participant to reach agreement on a matter requiring binding action (K.S.A. 75-4318(f)); KOMA covers the Legislature (unless its rules provide otherwise), counties, cities and school districts | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |
