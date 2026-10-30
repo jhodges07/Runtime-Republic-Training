@@ -20,6 +20,8 @@ New to all of this? Take the courses in this order:
 4. [NBBF — Node-Based Budget Framework](Courses/nbbf/README.md)
 5. [NBEF — Node-Based Education Framework](Courses/nbef/README.md)
 
+Hold public office? Start with [Claude for Office Holders](Courses/claude-for-office-holders/README.md).
+
 Full catalog with status: [Courses](Courses/README.md).
 
 ---
