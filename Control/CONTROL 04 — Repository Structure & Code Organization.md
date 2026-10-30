@@ -2,52 +2,62 @@ CONTROL 04 — Repository Structure & Code Organization
 
 Version: 1.0
 Date: 2026-10-30
-Status: Authoritative (System-Wide)
+Status: Draft — pending Human Engineer approval
 Project: Runtime-Republic Training
 
 ---
 
 # 1. Structure
 
-{{FILL: replace the code folders with the project's real layout; keep Control/, CLAUDE.md, scripts/ and .github/}}
-
 ```
 Runtime-Republic Training/
 │
-├── README.md
+├── README.md                 Front door for learners: courses and where to start
+├── LICENSE.md                CC BY 4.0 notice for all training material
 ├── CLAUDE.md                 AI assistant rules (CONTROL 08)
 │
-├── src/
-│   ├── Domain/               Pure models. No I/O.
-│   ├── Logic/                ALL business rules.
-│   ├── Application/          Use cases + ports (interfaces)
-│   ├── Infrastructure/       Database, network, file implementations of ports
-│   └── Presentation/         UI or API — display / transport only
+├── Courses/
+│   ├── README.md             Course catalog
+│   └── <course>/
+│       ├── README.md         Course page: purpose, lesson list, source repositories
+│       └── <NN-lesson-name>/
+│           ├── lesson.md     The essay, with the CONTROL 05 header
+│           └── image.png     Supporting image (CONTROL 05 §5)
 │
-├── tests/
-│   ├── Domain/  Logic/  Application/  Infrastructure/
-│   └── Architecture/         Layer guard tests
+├── src/                      Phase 3 only: bridge software, layered per CONTROL 10
+├── tests/                    Phase 3 only
 │
 ├── Control/                  CONTROL documents + ARCHITECTURE_STATUS.md
-├── scripts/                  init-project.sh, check-controls.sh
+├── scripts/                  init-project.sh, check-controls.sh, check-lessons.sh
 └── .github/                  CI workflow, PR template
 ```
+
+`src/` and `tests/` do not exist until Phase 3 (CONTROL 02).
 
 ---
 
 # 2. Placement Rules
 
-| If the code… | It goes in… |
+| If the file… | It goes in… |
 |---|---|
-| describes what something is | Domain |
-| decides, calculates or changes state | Logic |
-| orchestrates a user action | Application |
-| talks to a database, network or disk | Infrastructure |
-| draws a screen or exposes an endpoint | Presentation |
+| teaches one topic | `Courses/<course>/<NN-lesson-name>/lesson.md` |
+| illustrates a lesson | the same lesson folder |
+| describes a course | `Courses/<course>/README.md` |
+| sets a rule for this repository | `Control/` |
+| checks the repository | `scripts/` |
+| is software (Phase 3) | `src/`, by layer per CONTROL 10 |
 
 ---
 
-# 3. Control Folder Rules
+# 3. Naming Rules
+
+• Course folders: lowercase words joined by hyphens, e.g. `building-with-claude`.
+• Lesson folders: two-digit order number, then lowercase hyphenated title, e.g. `01-from-turing-to-claude`.
+• The order number is the lesson's place in the course and never changes once a lesson is approved.
+
+---
+
+# 4. Control Folder Rules
 
 • File name: `CONTROL NN — Title.md`, two-digit number, em dash.
 • Every document starts with the header block (title, Version, Date, Status)
@@ -57,10 +67,11 @@ Runtime-Republic Training/
 
 ---
 
-# 4. Never Committed
+# 5. Never Committed
 
 Secrets (keys, certificates, `.env`, service config files with credentials),
-build output, IDE user files. See `.gitignore` and CONTROL 16.
+build output, IDE user files, and audio files until Phase 2 defines where they live.
+See `.gitignore` and CONTROL 16.
 
 ---
 
