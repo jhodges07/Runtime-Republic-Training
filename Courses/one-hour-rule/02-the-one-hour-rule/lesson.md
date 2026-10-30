@@ -1,10 +1,12 @@
 # The One-Hour Rule
 
+![The One-Hour Rule](02-the-one-hour-rule.png)
+
 Course: The One-Hour Rule
 Lesson: 02 of 05
 Status: Draft
 Runtime: about 3 and a half minutes
-Image: Pending
+Image: 02-the-one-hour-rule.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
