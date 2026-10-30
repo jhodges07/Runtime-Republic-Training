@@ -12,4 +12,6 @@
 - [ ] Layer rules respected (CONTROL 10)
 - [ ] No secrets committed (CONTROL 16)
 - [ ] `scripts/check-controls.sh` passes if a CONTROL document changed
+- [ ] `scripts/check-lessons.sh` passes if a lesson changed (CONTROL 05)
+- [ ] Only the Human Engineer merges a lesson moving to Approved or later
 - [ ] `Control/ARCHITECTURE_STATUS.md` updated if a phase item completed
