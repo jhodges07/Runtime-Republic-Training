@@ -1,10 +1,12 @@
 # Connect Claude to GitHub
 
+![Connect Claude to GitHub](01-connect-claude-to-github.png)
+
 Course: Claude and GitHub
 Lesson: 01 of 03
 Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 01-connect-claude-to-github.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
