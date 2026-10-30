@@ -38,3 +38,9 @@ xcuserdata/
 .DS_Store
 Thumbs.db
 ~$*
+
+# Audio stays out until Phase 2 defines where episodes live (CONTROL 04 §5)
+*.mp3
+*.wav
+*.m4a
+*.aac
