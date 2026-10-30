@@ -14,8 +14,8 @@ Lessons are written as essays, then narrated word for word as podcast episodes.
 
 New to all of this? Take the courses in this order:
 
-1. [Building With Claude](Courses/building-with-claude/README.md): using AI under human control to build real things
-2. [GitHub & Asynchronous Collaboration](Courses/github-async-collaboration/README.md): working together online without meeting
+1. [GitHub for Everyone](Courses/github-for-everyone/README.md): what GitHub is and how people build things together on it, from a beginner level up
+2. [Building With Claude](Courses/building-with-claude/README.md): using AI under human control to build real things, alone or as a group
 3. [AGCL — Node-Based Liberty Framework](Courses/agcl-nblf/README.md)
 4. [NBBF — Node-Based Budget Framework](Courses/nbbf/README.md)
 5. [NBEF — Node-Based Education Framework](Courses/nbef/README.md)
@@ -74,4 +74,11 @@ Status: [ARCHITECTURE_STATUS.md](Control/ARCHITECTURE_STATUS.md)
 
 ## License
 
-Training material is licensed [CC BY 4.0](LICENSE.md): share and adapt it with credit.
+Training material (everything under `Courses/`) is licensed [CC BY 4.0](LICENSE): share and adapt
+it with credit. Suggested credit: *From Runtime-Republic Training — RuntimeRepublic.com ·
+BlueprintLiberty.com — licensed CC BY 4.0.*
+
+No license has been chosen yet for scripts or future software; the Human Engineer will
+choose one before Phase 3 (CONTROL 02).
+
+Facts behind the lessons are listed in [SOURCES.md](SOURCES.md).
