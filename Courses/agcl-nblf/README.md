@@ -25,3 +25,7 @@ The AGCL plan's own structure. Lesson order and titles are for the Human Enginee
 - [Point 08 — National Jury Reform](https://github.com/jhodges07/AGCL-Control-Documents/blob/main/plan/08_jury_reform.md)
 - [Point 09 — End the National Debt](https://github.com/jhodges07/AGCL-Control-Documents/blob/main/plan/09_national_debt.md)
 - [Point 10 — American Health Freedom Plan](https://github.com/jhodges07/AGCL-Control-Documents/blob/main/plan/10_health_plan.md)
+
+---
+
+[All series in this repository](../README.md) · [Repository home](../../README.md)

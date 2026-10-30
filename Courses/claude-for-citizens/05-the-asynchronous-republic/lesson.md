@@ -54,3 +54,15 @@ AI went from hand-written rules, to learned patterns, to a new kind of tool that
 You do not need permission to start. Make your free GitHub account. Find a project that matters to you. Read its rules. Open one small, helpful issue. And invite a neighbor.
 
 This has been Runtime Republic. Find the essays, the projects, and ways to get involved at BlueprintLiberty.com and RuntimeRepublic.com. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../04-from-scrolling-to-participating/lesson.md) · [Series index](../README.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

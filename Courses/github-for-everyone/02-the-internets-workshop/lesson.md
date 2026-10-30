@@ -43,3 +43,15 @@ So let's look back at what we learned today. GitHub started as a side project by
 In Part Three, we'll roll up our sleeves and learn the basic words and tools of GitHub, things like repositories, commits, forks, and issues. Don't worry if those sound strange. By the end, they'll feel as familiar as the parts of a bicycle.
 
 Here's your thinking question for today. Why do you think letting anyone see and suggest changes to a project might make that project better?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../01-the-magic-notebook/lesson.md) · [Series index](../README.md) · [Next essay →](../03-the-toolbox/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

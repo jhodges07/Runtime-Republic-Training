@@ -50,3 +50,15 @@ Artificial intelligence went from hand-written rules to a tool that can read and
 The oath you took is to a written constitution, followed and checked. The best way to use these new tools is in the same spirit: written rules, open records, and every decision made by people who answer to the public.
 
 This has been Runtime Republic. Find the essays, the projects, and ways to get involved at BlueprintLiberty.com and RuntimeRepublic.com. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../04-meeting-citizens-where-the-work-happens/lesson.md) · [Series index](../README.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

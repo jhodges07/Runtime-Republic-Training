@@ -16,3 +16,7 @@ No technical background needed. If you can send a text message, you can do every
 
 Take [GitHub for Everyone](../github-for-everyone/README.md) alongside or after this course for a
 fuller, beginner-friendly tour of GitHub.
+
+---
+
+[All series in this repository](../README.md) · [Repository home](../../README.md)

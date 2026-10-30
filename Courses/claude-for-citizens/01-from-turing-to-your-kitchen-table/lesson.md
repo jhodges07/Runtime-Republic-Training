@@ -56,3 +56,15 @@ That is where we are going.
 In Episode 2, we get practical: how to ask Claude good questions, how to get answers you can trust, and what you should never type into any AI.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[Series index](../README.md) · [Next essay →](../02-asking-good-questions/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

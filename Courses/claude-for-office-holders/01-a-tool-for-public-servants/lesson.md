@@ -48,3 +48,15 @@ None of this is partisan. Clear reading, honest explanations, careful checking a
 In Episode 2, we cover using AI responsibly in public office: what becomes a public record, how to avoid an accidental open-meetings problem, and how to protect the people who trust you with their information.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[Series index](../README.md) · [Next essay →](../02-using-ai-responsibly-in-office/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

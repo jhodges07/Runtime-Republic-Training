@@ -47,3 +47,15 @@ Let's review our whole series. GitHub is a place where people store projects and
 Here's your final thinking question. If an AI helper suggested a change to your project, what would you want to check before you said yes?
 
 And that brings us to our bonus essay. Up to now, we've talked about building programs. But remember that story from Part Four, about the citizen who fixed a typo in the law using a pull request? In our next essay, we'll ask a bigger question. What if voters and lawmakers used these same tools to write a new law together, from the very first word?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../04-open-source/lesson.md) · [Series index](../README.md) · [Next essay →](../06-writing-a-law-like-code/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

@@ -56,3 +56,15 @@ If that list sounds less like computer tips and more like being a careful, fair-
 In Episode 3, we turn these habits into real tasks: reading a bill, following your tax dollars, checking a viral post, and getting ready to contact your representative.
 
 This has been Runtime Republic. Thanks for listening.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../01-from-turing-to-your-kitchen-table/lesson.md) · [Series index](../README.md) · [Next essay →](../03-citizen-workflows-and-cheat-codes/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

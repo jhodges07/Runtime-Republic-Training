@@ -47,3 +47,15 @@ So let's remember the big ideas from today. Code is a recipe that tells computer
 In Part Two, we'll go back in time and meet the people who started GitHub. We'll learn how a tiny idea in 2008 grew into one of the most important places on the entire internet, and why one of the biggest companies in the world decided it wanted to buy it.
 
 Until then, here's something to think about. If you could build anything with a team of friends from all around the world, what would you build?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[Series index](../README.md) · [Next essay →](../02-the-internets-workshop/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

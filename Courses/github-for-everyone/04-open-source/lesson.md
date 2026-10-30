@@ -43,3 +43,15 @@ Let's review. Open source means sharing the recipe so anyone can read, use, and 
 In Part Five, our last main essay, we'll look at where GitHub is today and where it might be going. We'll talk about artificial intelligence that helps write code, the debates people have about it, and what all of this means for anyone who wants to build something.
 
 Here's your thinking question. If you could share one recipe, one idea, or one project with the whole world for free, what would it be, and what rules would you want people to follow when they use it?
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../03-the-toolbox/lesson.md) · [Series index](../README.md) · [Next essay →](../05-robots-helpers-road-ahead/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

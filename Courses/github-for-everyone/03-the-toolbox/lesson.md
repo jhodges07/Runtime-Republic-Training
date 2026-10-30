@@ -43,3 +43,15 @@ Let's put it all together with our cookbook. The repository is the cookbook's ho
 In Part Four, we'll see these tools in action in the real world. We'll look at open source, the amazing idea that people can build free software together, and we'll discover some surprising things people use GitHub for, beyond just code.
 
 Here's your thinking question. Of all the words we learned today, which one do you think would be most useful for a group of people trying to agree on something together? Hold on to that answer. It'll matter in our bonus essay.
+
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[← Previous essay](../02-the-internets-workshop/lesson.md) · [Series index](../README.md) · [Next essay →](../04-open-source/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->
