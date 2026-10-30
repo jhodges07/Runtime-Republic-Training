@@ -1,10 +1,12 @@
 # Open Meetings Meet Open Repositories
 
+![Open Meetings Meet Open Repositories](03-open-meetings-meet-open-repositories.png)
+
 Course: The One-Hour Rule
 Lesson: 03 of 05
 Status: Draft
 Runtime: about 3 minutes
-Image: Pending
+Image: 03-open-meetings-meet-open-repositories.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
