@@ -1,10 +1,12 @@
 # Fingerprints on Every Page
 
+![Fingerprints on Every Page](02-fingerprints-on-every-page.png)
+
 Course: Reading the Draft
 Lesson: 02 of 02
-Status: Draft
+Status: Review
 Runtime: about 11 minutes
-Image: Pending
+Image: 02-fingerprints-on-every-page.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
@@ -51,7 +53,7 @@ So that's the draft. Now let's test it, the same way we did last time.
 
 The first hard question: which fingerprint method? The draft says a published method, but it doesn't name one. That's intentional, and it's also a gap. Methods age. One that's trusted today may be weakened in twenty years. A good law might name a public standard by reference, so it can be updated without rewriting the statute. This is on the list of open questions for the Revisor.
 
-The second hard question: what if the repository goes down? If the clock depends on a website, an outage could block lawful action. The draft doesn't yet say what happens then. A careful version would require backup copies, and might pause the clock during an outage rather than let action go forward on text no one could see. That's a real gap, and it's recorded as a risk in the project's engineering specification.
+The second hard question: what if the repository goes down? If the clock depends on a website, an outage could block lawful action, or tempt someone to act on text no one could see. The draft answers this directly. While the repository is down, the one-hour clock stops. The Revisor must keep at least two independent backup copies, one outside the state's main data center, and name in advance which one becomes the posting place if an outage runs long. And every outage is logged, with its start and end times. How many hours count as long is still an open question.
 
 The third hard question: does the Governor clause fit the constitution? The Kansas Constitution says a bill must be presented to the Governor within ten days after it passes, and gives the Governor ten days to act. An hour of posting fits easily inside ten days. But a lawyer would want to make sure the statute can't be read as blocking a presentment the constitution requires. That's another open question.
 
@@ -59,9 +61,7 @@ The fourth hard question: can a joint rule really hold? Same answer as last time
 
 And the last hard question: is one hour enough? For a short bill, an hour is plenty to see what changed. For a four-hundred-page budget, it isn't enough to read every word. But the fingerprints help here too. Because every version is in the repository, anyone can see exactly which lines changed between versions, in red and green. Reporters, advocates and alert apps can focus on the changes, not the whole bill. The hour is a floor. A longer wait for long bills would be a reasonable addition.
 
-Let's recap. The draft gives every version of every bill a permanent public home, owned by the state. It gives every version a fingerprint, so a single changed comma is visible to anyone. It ties every official action, from introduction to the Governor's signature, to a fingerprint posted at least an hour earlier. Action that skips the clock is not valid. Emergencies are allowed, by two-thirds of all members, but the text is still posted first. And there's work left: naming the fingerprint method, planning for outages, checking the Governor clause against the constitution, and making the rule permanent through an amendment.
-
-One update since this essay was first written. The draft now has an outage rule. While the repository is down, the one-hour clock stops. If an outage runs long, a backup copy chosen in advance becomes the posting place. And every outage is logged, with its start and end times.
+Let's recap. The draft gives every version of every bill a permanent public home, owned by the state. It gives every version a fingerprint, so a single changed comma is visible to anyone. It ties every official action, from introduction to the Governor's signature, to a fingerprint posted at least an hour earlier. Action that skips the clock is not valid. Emergencies are allowed, by two-thirds of all members, but the text is still posted first. If the repository goes down, the clock stops, and a backup chosen in advance takes over. And there's work left: naming the fingerprint method, checking the Governor clause against the constitution, and making the rule permanent through an amendment.
 
 One last question for you. If you could get a notice the moment any bill changed, which bill would you watch first?
 
