@@ -21,6 +21,7 @@ Software comes later (CONTROL 02, Phase 3).
 - Every `lesson.md` starts with the CONTROL 05 header block.
 - Only the Human Engineer sets `Status: Approved` or later. AI may draft and revise.
 - A lesson cannot move past `Review` until its supporting image exists (CONTROL 05 §5).
+- Once a lesson has its image, show it under the title with `![<title>](<image file>)` (CONTROL 05 §5).
 - Narration reads the approved text exactly; never rewrite an approved lesson for audio.
 - Run `scripts/check-lessons.sh` after adding or editing any lesson.
 
