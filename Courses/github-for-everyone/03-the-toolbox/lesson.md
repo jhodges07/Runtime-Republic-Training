@@ -4,7 +4,7 @@ Course: GitHub for Everyone
 Lesson: 03 of 07
 Status: Draft
 Runtime: about 7 minutes
-Image: Pending
+Image: 03-the-toolbox.png
 Podcast: Not recorded
 Sources: None
 Approved by: —

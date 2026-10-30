@@ -4,7 +4,7 @@ Course: GitHub for Everyone
 Lesson: 06 of 07
 Status: Draft
 Runtime: about 7 and a half minutes
-Image: Pending
+Image: 06-writing-law-like-code.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
