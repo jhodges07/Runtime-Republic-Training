@@ -32,6 +32,7 @@ COMPLETED:
 - Learner README and CC BY 4.0 license notice
 - The One-Hour Rule course: 5 lessons Approved by the Human Engineer (2026-10-30), with images (Kansas bill transparency and KOMA)
 - Reading the Draft course (Long length): Lessons 01–02 Approved by the Human Engineer (2026-10-30), with images
+- Claude and GitHub and ChatGPT and GitHub courses (Short length): 3 lessons each in Draft, images pending
 
 NEXT:
 - Approve the Phase 0 CONTROL documents (exit gate, CONTROL 02 §2)
