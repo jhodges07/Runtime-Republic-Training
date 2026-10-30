@@ -14,6 +14,8 @@ Image header: The Internet's Workshop | GitHub for Everyone • Part 2
 
 ---
 
+![How a Late-Night Idea Became the Internet's Workshop](02-the-internets-workshop.png)
+
 Last time, we learned that code is a recipe for computers, that Git is a magical save button, and that GitHub is a giant online library where people build things together. Today, we're going to travel back in time and find out how GitHub was born.
 
 Our story starts in San Francisco, California, in 2007. Two programmers named Chris Wanstrath and Tom Preston-Werner kept running into each other at a meetup, which is a gathering where people who love the same thing come together to talk about it. These two loved a programming language called Ruby.

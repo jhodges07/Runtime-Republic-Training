@@ -13,6 +13,8 @@ Audience: Citizens joining from Facebook or X; no technical background needed
 
 ---
 
+![Citizen Workflows and Cheat Codes](03-citizen-workflows.png)
+
 Welcome back to Runtime Republic. In Episode 2 we covered the habits. Today we put them to work. Five citizen workflows you can use this week, and six cheat codes, short phrases that make every answer better.
 
 First, a simple pattern that runs through all of them. Find, understand, check, act.

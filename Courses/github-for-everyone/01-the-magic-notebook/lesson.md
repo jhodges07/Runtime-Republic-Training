@@ -14,6 +14,8 @@ Image header: The Magic Notebook | GitHub for Everyone • Part 1
 
 ---
 
+![The Magic Notebook Where the Whole World Builds Things Together](01-the-magic-notebook.png)
+
 Imagine you and your friends decide to build the biggest, most amazing Lego city ever. There's just one problem. You live in different houses, in different towns, and some of your friends live in different countries. How do you all build the same city at the same time?
 
 That's the kind of problem GitHub solves. Not for Lego, but for computer programs.

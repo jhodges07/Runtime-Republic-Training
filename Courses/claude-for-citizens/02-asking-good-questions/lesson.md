@@ -13,6 +13,8 @@ Audience: Citizens joining from Facebook or X; no technical background needed
 
 ---
 
+![Asking Good Questions](02-asking-good-questions.png)
+
 Welcome back to Runtime Republic. Last time we walked from Alan Turing to Claude. Today we get practical. How do you ask an AI assistant good questions, and how do you get answers you can trust?
 
 Here is the one idea to remember: treat Claude like a very well-read new neighbor who just moved to town. Smart. Patient. Happy to help. But they do not know your county, your school district, or what happened at last month's commission meeting unless you tell them or ask them to look it up.

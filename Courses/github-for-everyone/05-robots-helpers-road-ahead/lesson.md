@@ -14,6 +14,8 @@ Image header: The Road Ahead | GitHub for Everyone • Part 5
 
 ---
 
+![Robots, Helpers, and the Road Ahead](05-the-road-ahead.png)
+
 Over the last four essays, we've learned that GitHub is a giant online library for building things together, that it began as a side project in 2008, that it has its own toolbox of words like commit, branch, and pull request, and that open source lets people share their recipes with the whole world. Today, in our last main essay, we'll look at where GitHub is now, and where it might be heading.
 
 Let's start with how big it has become. Each year, GitHub publishes a report called Octoverse, a kind of yearly report card. In late 2025, it said more than 180 million developers were building on GitHub, with about one new developer joining every single second, and roughly 230 new repositories created every minute. Think about that. In the time it takes you to listen to this sentence, several new people somewhere in the world have just joined.

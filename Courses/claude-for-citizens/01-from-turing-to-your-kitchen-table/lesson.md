@@ -13,6 +13,8 @@ Audience: Citizens joining from Facebook or X; no technical background needed
 
 ---
 
+![From Turing to Your Kitchen Table](01-from-turing-to-your-kitchen-table.png)
+
 Welcome to Runtime Republic. If you found us through Facebook or X, thank you for coming. This is a five-part series about one question: how can ordinary citizens use an AI assistant called Claude to understand their government, follow their tax dollars, and work together to improve things?
 
 You do not need to be technical. You do not need to write code. If you can send a text message, you can do everything in this series.

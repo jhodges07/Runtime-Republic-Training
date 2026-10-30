@@ -14,6 +14,8 @@ Image header: The Toolbox | GitHub for Everyone • Part 3
 
 ---
 
+![The Toolbox, Learning the Words of GitHub](03-the-toolbox.png)
+
 In Part One, we learned what GitHub is. In Part Two, we learned where it came from. Today, we're going to open the toolbox and learn the names of the tools inside. Every hobby has its own words. Baseball has innings and strikes. Cooking has simmer and sauté. GitHub has its own words too, and once you know them, the whole thing starts to make sense.
 
 To help us, let's imagine a project. Your class has decided to write a cookbook together, called The Best Family Recipes Ever. Everyone in class will add recipes, fix mistakes, and make it better. We'll use this cookbook to explain each GitHub word.

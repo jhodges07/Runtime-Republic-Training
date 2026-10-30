@@ -13,6 +13,8 @@ Audience: Citizens joining from Facebook or X; no technical background needed
 
 ---
 
+![From Scrolling to Participating](04-from-scrolling-to-participating.png)
+
 Welcome back to Runtime Republic. So far, we have talked about what you can do on your own with an AI assistant. Today is about what we can do together, and why Facebook and X, for all they are good at, are not the place to do it.
 
 Let's be fair to social media first. Facebook and X are wonderful at finding people. They are how many of you found us. They are good for news, for conversation, and for spreading the word.

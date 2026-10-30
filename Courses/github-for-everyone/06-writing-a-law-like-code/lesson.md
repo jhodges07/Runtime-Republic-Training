@@ -14,6 +14,8 @@ Image header: Writing Law Like Code | GitHub for Everyone • Bonus 1
 
 ---
 
+![Writing a Law the Way We Write Code](06-writing-law-like-code.png)
+
 In Part Four, we heard about a citizen in Washington, D.C., who spotted a mistake in the law and fixed it with a pull request. Today, let's take that idea much further. What if voters and lawmakers used GitHub to write a brand new bill together, from the very first word?
 
 First, a quick reminder of how a bill usually gets written. A lawmaker hears about a problem, maybe from a neighbor, a business, or a news story. The lawmaker asks staff to write a draft. In Kansas, that drafting is done by a nonpartisan office called the Revisor of Statutes. The draft gets a number, goes to a committee, gets hearings and amendments, and eventually comes up for a vote. Voters can testify and call their representatives, but most of the actual writing happens out of view. By the time most people hear about a bill, the words are already mostly set.

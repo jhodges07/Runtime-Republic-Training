@@ -13,6 +13,8 @@ Audience: Citizens joining from Facebook or X; no technical background needed
 
 ---
 
+![The Asynchronous Republic](05-the-asynchronous-republic.png)
+
 Welcome to the final episode of this series on Runtime Republic. We have covered where AI came from, how to ask good questions, everyday citizen workflows, and how to move from scrolling to participating. Today we put it all together. What happens when many citizens, each with their own AI assistant, work on something important, without ever being in the same room or even awake at the same time?
 
 That is asynchronous work. It is a big word for a simple idea: everyone contributes when they can, and the work keeps moving.

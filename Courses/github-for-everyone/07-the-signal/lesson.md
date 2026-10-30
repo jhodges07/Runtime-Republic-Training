@@ -14,6 +14,8 @@ Image header: The Signal | GitHub for Everyone • Bonus 2
 
 ---
 
+![The Signal, a Phone App That Tells You When It's Your Turn](07-the-signal.png)
+
 In our last essay, we imagined writing a law the way programmers write code, out in the open on GitHub, where every change and every reason is visible. But we ended with a problem. Most people will never check a GitHub page on their own. A workshop with the doors wide open doesn't help if nobody knows the workshop exists.
 
 So today, let's talk about the signal.

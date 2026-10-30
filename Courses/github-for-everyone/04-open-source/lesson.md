@@ -14,6 +14,8 @@ Image header: Open Source | GitHub for Everyone • Part 4
 
 ---
 
+![Open Source, Building Things for Everyone](04-open-source.png)
+
 So far, we've learned what GitHub is, where it came from, and the names of the tools in its toolbox. Today, we're going to talk about one of the most generous ideas in all of technology. It's called open source. And it's the reason GitHub became so important.
 
 Let's begin with a question. When you buy a cake from a bakery, do they give you the recipe? Usually not. The recipe is a secret. That's how the bakery makes money. You can enjoy the cake, but you can't see how it was made, and you certainly can't change it.
