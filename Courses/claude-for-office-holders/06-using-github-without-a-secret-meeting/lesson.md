@@ -4,12 +4,12 @@
 
 Course: Claude for Office Holders
 Lesson: 06 of 06
-Status: Draft
+Status: Approved
 Runtime: about 5 and a half minutes
 Image: 06-using-github-without-a-secret-meeting.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Elected office holders and candidates: state legislators, county commissioners, city council and school board members
 Image header: Using GitHub Without a Secret Meeting | Claude for Office Holders • Bonus
