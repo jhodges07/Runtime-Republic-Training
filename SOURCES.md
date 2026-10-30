@@ -133,3 +133,20 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Bills presented to the Governor within ten days after passage; Governor has ten calendar days to act (Kansas Constitution, Article 2, Section 14) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
 | Model draft discussed (joint rule (a)–(e), (g); statute Sec. 2, 3; definitions; constitutional amendment) | Human Engineer working document "One-Hour Rule: Model Legislative Language" (2026-10-30); not published |
 | Repository outage recorded as a project risk (R-005) | Legislative-Manager, `projects/PRJ-002-Kansas-Legislative-Text-Posting/SPEC-003-Kansas-One-Hour-Posting-Rule.md` (proposed) |
+
+---
+
+## Claude and GitHub
+
+| Fact | Source |
+|---|---|
+| Add from GitHub in a chat; add a repository to Claude Project knowledge; private repos via the Claude GitHub App; sync is manual; reads file contents on a branch, not commit history or PRs (checked 2026-10-30) | [Claude Help Center: Using the GitHub integration](https://support.claude.com/en/articles/10167454-using-the-github-integration) |
+| Claude Code works in a repository and can propose changes | [Claude Code overview](https://docs.claude.com/en/docs/claude-code/overview) |
+
+---
+
+## ChatGPT and GitHub
+
+| Fact | Source |
+|---|---|
+| Settings → Apps → GitHub; choose repositories; syncing is separate from access; repos may take minutes to appear; search by repository name only; plan availability varies; the app is read-only; use Codex to edit code or open PRs (checked 2026-10-30) | [OpenAI Help Center: Connecting GitHub to ChatGPT](https://help.openai.com/en/articles/11145903) |
