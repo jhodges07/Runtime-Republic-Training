@@ -30,7 +30,7 @@ COMPLETED:
 - SOURCES.md and official CC BY 4.0 LICENSE brought over from PR #1
 - scripts/check-lessons.sh with 10 tests, run in CI
 - Learner README and CC BY 4.0 license notice
-- The One-Hour Rule course: 5 lessons in Review, all 5 images added (Kansas bill transparency and KOMA)
+- The One-Hour Rule course: 5 lessons Approved by the Human Engineer (2026-10-30), with images (Kansas bill transparency and KOMA)
 - Reading the Draft course (Long length): Lesson 01 Approved by the Human Engineer (2026-10-30) with image; Lesson 02 in Draft, image pending
 
 NEXT:
