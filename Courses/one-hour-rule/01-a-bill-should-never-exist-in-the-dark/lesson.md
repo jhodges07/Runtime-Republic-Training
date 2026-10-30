@@ -4,12 +4,12 @@
 
 Course: The One-Hour Rule
 Lesson: 01 of 05
-Status: Review
+Status: Approved
 Runtime: about 3 minutes
 Image: 01-a-bill-should-never-exist-in-the-dark.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders
 

@@ -4,12 +4,12 @@
 
 Course: The One-Hour Rule
 Lesson: 02 of 05
-Status: Review
+Status: Approved
 Runtime: about 3 and a half minutes
 Image: 02-the-one-hour-rule.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders
 
