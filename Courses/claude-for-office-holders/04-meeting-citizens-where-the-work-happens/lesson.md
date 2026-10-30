@@ -3,7 +3,7 @@
 ![Meeting Citizens Where the Work Happens](04-meeting-citizens.png)
 
 Course: Claude for Office Holders
-Lesson: 04 of 05
+Lesson: 04 of 06
 Status: Draft
 Runtime: about 5 minutes
 Image: 04-meeting-citizens.png
