@@ -1,65 +1,77 @@
-# Control-Engineering-Template
+# Runtime-Republic Training
 
-A GitHub template for starting any project under the UNBKE control-document
-discipline: every behavior is governed by a numbered CONTROL document, built in
-strict layers, proven by tests, and committed one logical change at a time.
+Training that helps people understand the AGCL, NBBF and NBEF frameworks, AI and GitHub,
+and builds the software that lets people work together asynchronously online to achieve
+the ideals of the AGCL.
 
-Language-neutral — works for C#/.NET, Swift, TypeScript, Python, VBA or plain
-document projects. Language-specific rules are filled into CONTROL 03 and 04.
+Lessons are written as essays, then narrated word for word as podcast episodes.
+
+**BlueprintLiberty.com · RuntimeRepublic.com**
 
 ---
 
-## What's inside
+## Start here
 
-| Path | Purpose |
+New to all of this? Take the courses in this order:
+
+1. [Building With Claude](Courses/building-with-claude/README.md): using AI under human control to build real things
+2. [GitHub & Asynchronous Collaboration](Courses/github-async-collaboration/README.md): working together online without meeting
+3. [AGCL — Node-Based Liberty Framework](Courses/agcl-nblf/README.md)
+4. [NBBF — Node-Based Budget Framework](Courses/nbbf/README.md)
+5. [NBEF — Node-Based Education Framework](Courses/nbef/README.md)
+
+Full catalog with status: [Courses](Courses/README.md).
+
+---
+
+## Training teaches; control documents rule
+
+These lessons explain the frameworks. They do not define them. The rules live in each
+framework's own control documents, and where a lesson disagrees, the control document wins.
+
+| Framework | Canonical source |
 |---|---|
-| `Control/CONTROL 00` | Document index; every CONTROL file must be listed |
-| `Control/CONTROL 01–02` | Goal and scope; development phases with gates |
-| `Control/CONTROL 03–04` | Coding standards; repository structure |
-| `Control/CONTROL 08` | AI development protocol and instruction template |
-| `Control/CONTROL 10–11` | Layer separation; one change at a time |
-| `Control/CONTROL 14–16` | Commits; testing; release and security |
-| `Control/_TEMPLATE …` | Blank skeleton for new CONTROL documents |
-| `Control/ARCHITECTURE_STATUS.md` | Current phase, decisions, verification log |
-| `CLAUDE.md` | Rules AI assistants read before any change |
-| `scripts/init-project.sh` | One-time setup: fills project name and date |
-| `scripts/check-controls.sh` | Checks headers, index and unfilled markers |
-| `.github/` | CI that runs the check; PR template |
+| AGCL — American Gold Contract for Liberty | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| NBBF — Node-Based Budget Framework | [NBBF-Control-Documents](https://github.com/jhodges07/NBBF-Control-Documents) |
+| NBEF — Node-Based Education Framework | [NBEF-Control-Documents](https://github.com/jhodges07/NBEF-Control-Documents) |
 
-Numbering matches the UNBKE control set, so CONTROL 03 always means coding
-standards and CONTROL 14 always means source control, in every repo.
+Related: [Constitutional-Engineering](https://github.com/jhodges07/Constitutional-Engineering) ·
+[Legislative-Manager](https://github.com/jhodges07/Legislative-Manager)
 
 ---
 
-## Start a new project
+## How a lesson is made
 
-1. On GitHub, click **Use this template → Create a new repository**.
-2. Clone it, then run once:
+```
+Draft  →  Review  →  Approved  →  Narrated  →  Published
+```
+
+Every lesson carries a short header (course, status, image, podcast, approval) and needs
+a supporting image before it can be approved. Only the Human Engineer approves.
+Full rules: [CONTROL 05](Control/CONTROL%2005%20—%20Lesson%20Standard%20&%20Approval%20Workflow.md).
+
+---
+
+## Contributing
+
+Anyone can propose a lesson or a fix, with or without an AI assistant:
+
+1. Open an issue describing the lesson or change.
+2. Work on a branch and open a pull request. One logical change per commit:
+   `[Lesson] - Added - <course> <NN> <title>` (CONTROL 14).
+3. Run the checks:
    ```bash
-   scripts/init-project.sh "My Project Name"
+   scripts/check-lessons.sh       # every lesson against CONTROL 05
+   scripts/check-controls.sh      # CONTROL documents
    ```
-3. Fill CONTROL 01 and 02, then CONTROL 03 §3–4 and CONTROL 04 §1 for your language.
-   An AI assistant can do this from a conversation — `CLAUDE.md` tells it how.
-4. Add project-specific models (data model, domain rules) as CONTROL 05–07, 09,
-   12–13 or 17+, starting from `Control/_TEMPLATE — New CONTROL Document.md`.
-5. Check your work:
-   ```bash
-   scripts/check-controls.sh           # errors fail, unfilled markers warn
-   scripts/check-controls.sh --strict  # unfilled markers fail too
-   ```
+4. AI assistants: read [CLAUDE.md](CLAUDE.md) first.
+
+Project goals: [CONTROL 01](Control/CONTROL%2001%20—%20Project%20Goal%20&%20Scope.md) ·
+Phases: [CONTROL 02](Control/CONTROL%2002%20—%20Development%20Phase%20Plan.md) ·
+Status: [ARCHITECTURE_STATUS.md](Control/ARCHITECTURE_STATUS.md)
 
 ---
 
-## Placeholders
+## License
 
-| Marker | Filled by |
-|---|---|
-| `{{PROJECT_NAME}}`, `{{DATE}}` | `scripts/init-project.sh` |
-| `{{FILL: …}}` | You or an AI assistant, with real project facts |
-
----
-
-## Maintaining this template
-
-Improve a standard here first, then copy the change into existing projects.
-Commits follow CONTROL 14: `[Control] - Updated - CONTROL 15 coverage targets`.
+Training material is licensed [CC BY 4.0](LICENSE.md): share and adapt it with credit.

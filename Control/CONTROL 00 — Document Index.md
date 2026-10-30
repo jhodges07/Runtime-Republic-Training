@@ -1,9 +1,9 @@
 CONTROL 00 — Document Index & Architecture Navigation Map
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-10-30
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
 
 ---
 
@@ -32,7 +32,7 @@ CONTROL 04 — Repository Structure & Code Organization
 OPERATIONAL TRUTH (project-specific models)
 
 ```
-{{FILL: list project models here, e.g. CONTROL 05 — <Domain> Data Model}}
+CONTROL 05 — Lesson Standard & Approval Workflow
 ```
 
 AI + EXECUTION

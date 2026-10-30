@@ -19,7 +19,17 @@ jobs:
       - name: Check headers, index and markers
         run: bash scripts/check-controls.sh
 
-  # Add the project's build and test job here (CONTROL 15), for example:
+  lessons:
+    name: Lessons (CONTROL 05)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test the lesson check
+        run: bash scripts/test-check-lessons.sh
+      - name: Check every lesson
+        run: bash scripts/check-lessons.sh
+
+  # Phase 3: add the software build and test job here (CONTROL 15), for example:
   #
   # tests:
   #   name: Build and test

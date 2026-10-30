@@ -1,9 +1,10 @@
 CONTROL 10 — Architectural Separation & Logic Sovereignty
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-10-30
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: Runtime-Republic Training
+Applies: Phase 3 (software) and later. Not applicable to lessons; fill its blanks when Phase 3 starts (CONTROL 02).
 
 ---
 
