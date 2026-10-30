@@ -109,3 +109,27 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Each house determines the rules of its proceedings (Kansas Constitution, Article 2, Section 8) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
 | Amendments need two-thirds of all members of each house, then a majority of electors voting on them (Article 14, Section 1) | [Kansas Constitution, Article 14, Section 1 (Revisor)](https://ksrevisor.gov/kanconst/093_014_0001.html) |
 | 2025 open-government law (effective July 1, 2025) requires bodies that live stream meetings to let the public observe | [Lawrence Journal-World, 2025-04-09](https://www2.ljworld.com/news/2025/apr/09/new-state-law-will-require-lawrence-city-commission-to-change-how-it-handles-public-comments-in-its-live-streams/) |
+
+---
+
+## Reading the Draft
+
+### Lesson 01 — A Safe Harbor for Working in the Open
+
+| Fact | Source |
+|---|---|
+| KOMA covers the Legislature unless its rules provide otherwise; serial communications rule (K.S.A. 75-4318(f)) | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |
+| Each house determines the rules of its proceedings (Kansas Constitution, Article 2, Section 8) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
+| Definition of "meeting" | [K.S.A. 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/) |
+| Interactive communication need not be in real time | [AG Opinion 98-26](https://ksag.washburnlaw.edu/opinions/1998/1998-026.htm) |
+| Joint rules may be amended or suspended by vote (Joint Rule 1) | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
+| Model draft discussed (joint rule (f), statute Sec. 2, 4, 5, 6) | Human Engineer working document "One-Hour Rule: Model Legislative Language" (2026-10-30); not published |
+
+### Lesson 02 — Fingerprints on Every Page
+
+| Fact | Source |
+|---|---|
+| Joint Rule 3(f): conference report copies 30 minutes before consideration; two-thirds of members present may dispense; Joint Rule 1: amending and suspending joint rules | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
+| Bills presented to the Governor within ten days after passage; Governor has ten calendar days to act (Kansas Constitution, Article 2, Section 14) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
+| Model draft discussed (joint rule (a)–(e), (g); statute Sec. 2, 3; definitions; constitutional amendment) | Human Engineer working document "One-Hour Rule: Model Legislative Language" (2026-10-30); not published |
+| Repository outage recorded as a project risk (R-005) | Legislative-Manager, `projects/PRJ-002-Kansas-Legislative-Text-Posting/SPEC-003-Kansas-One-Hour-Posting-Rule.md` (proposed) |
