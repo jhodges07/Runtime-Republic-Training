@@ -13,6 +13,8 @@ Audience: Elected office holders and candidates: state legislators, county commi
 
 ---
 
+![Meeting Citizens Where the Work Happens](04-meeting-citizens.png)
+
 Welcome back to Runtime Republic. So far, we have talked about how AI can help you in your own office. Today we look outward, at how the citizens you serve are starting to use these same tools, and how office holders can meet them where that work is happening.
 
 Every office holder knows the old pattern. An issue catches fire on Facebook or X. Hundreds of comments, many angry, some accurate, some not. Then a crowded public meeting where people have three minutes each and everyone leaves frustrated. Social media is good at spreading alarm and finding allies. It is poor at producing a clear, sourced proposal you can actually act on.

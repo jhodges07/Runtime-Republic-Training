@@ -13,6 +13,8 @@ Audience: Elected office holders and candidates: state legislators, county commi
 
 ---
 
+![A Tool for Public Servants](01-a-tool-for-public-servants.png)
+
 Welcome to Runtime Republic. This series is for people who hold public office, or plan to. State representatives and senators. County commissioners. City council members. School board members. Whatever your party, and whatever the size of your district, this series is about one question: how can an AI assistant called Claude help you serve your constituents better, without giving up any of the judgment and accountability that come with the office?
 
 You do not need to be technical. If you can send an email, you can do everything in this series.

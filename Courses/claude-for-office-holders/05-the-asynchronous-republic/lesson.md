@@ -13,6 +13,8 @@ Audience: Elected office holders and candidates: state legislators, county commi
 
 ---
 
+![The Asynchronous Republic](05-the-asynchronous-republic.png)
+
 Welcome to the final episode of this series on Runtime Republic. We have covered what AI can and cannot do for someone in public office, how to use it responsibly, workflows for the real tasks of the job, and how to meet citizens where their work is happening. Today we put it together.
 
 Here is the question: what would government look like if citizens and office holders could work on the same problems continuously, in the open, without everyone having to be in the same room at the same time?

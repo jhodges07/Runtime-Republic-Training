@@ -13,6 +13,8 @@ Audience: Elected office holders and candidates: state legislators, county commi
 
 ---
 
+![Using AI Responsibly in Office](02-using-ai-responsibly.png)
+
 Welcome back to Runtime Republic. Last time we looked at what an AI assistant can do for someone in public office, and where its limits are. Today is the most important episode in this series for anyone who holds office: how to use AI without stumbling into a records problem, an open-meetings problem, or a breach of your constituents' trust.
 
 A quick note first. This is not legal advice. The examples here use Kansas law, and every state is different. Before you use AI for official business, talk with your clerk, your body's attorney, or your legislative staff, and follow any written policy your body has adopted.

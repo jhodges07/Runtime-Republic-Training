@@ -13,6 +13,8 @@ Audience: Elected office holders and candidates: state legislators, county commi
 
 ---
 
+![Office-Holder Workflows and Cheat Codes](03-office-holder-workflows.png)
+
 Welcome back to Runtime Republic. In Episode 2 we set the ground rules. Today we put AI to work on the real tasks of public office: five workflows you can use this week, and six cheat codes, short phrases that make every answer more useful.
 
 All of them follow one pattern: read, question, verify, decide. The assistant helps you read faster and question better. You verify against the official documents. You decide.
