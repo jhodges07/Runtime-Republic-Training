@@ -90,7 +90,7 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | 2017 school finance formula passed in a bill that had been about insurance regulation | [KMUW, 2018-03-02](https://www.kmuw.org/government/2018-03-02/in-kansas-maligned-gut-and-go-tactic-gets-laws-enacted) |
 | Conference reports are voted up or down with no amendments | [Foulston: Kansas Legislative Insights, 2026-03-23](https://foulston.com/resources/kansas-legislative-insights-newsletter-march-23-2026) |
 | Joint Rule 3(f): conference report copies available to members 30 minutes before consideration; two-thirds of members present may dispense with distribution (2025–2026 Joint Rules) | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
-| A House majority leader defended the gut and go and said it would need a replacement | [Lawrence Journal-World](https://www2.ljworld.com/news/2002/feb/22/russians_threaten_to_leave/) |
+| House Majority Leader Don Hineman defended the gut and go and said it would need a replacement that lets the system keep working | [KMUW, 2018-03-02](https://www.kmuw.org/government/2018-03-02/in-kansas-maligned-gut-and-go-tactic-gets-laws-enacted) |
 
 ### Lesson 03 — Open Meetings Meet Open Repositories
 
