@@ -4,7 +4,7 @@ Course: Claude for Office Holders
 Lesson: 01 of 05
 Status: Draft
 Runtime: about 5 and a half minutes
-Image: Pending
+Image: 01-a-tool-for-public-servants.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
