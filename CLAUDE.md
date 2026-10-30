@@ -2,30 +2,38 @@
 
 Read before any change. Full protocol: `Control/CONTROL 08 — AI Development Interaction Protocol.md`.
 
+This is a training repository. Today it holds lessons (essays that become podcasts).
+Software comes later (CONTROL 02, Phase 3).
+
 ## Start of every task
 1. Read `Control/ARCHITECTURE_STATUS.md` and the CONTROL documents the task names.
 2. Only modify the files specified. Do not modify any other files.
 3. Do not edit CONTROL documents unless the task says so.
 
-## Architecture (CONTROL 10)
-```
-Presentation  →  Application (use cases, ports)  →  Logic  →  Domain
-                      ↑ implemented by Infrastructure
-```
-- Logic is the ONLY place business rules and state changes live.
-- Presentation (UI / API) displays and transports only.
-- Every source file starts with `// Layer: <Layer>` and `// Governed by: CONTROL xx`.
+## Authority
+- Training material teaches; it never sets rules. The canonical rules for AGCL, NBBF and
+  NBEF live in their own control-document repositories (CONTROL 01 §6).
+- Never invent framework doctrine. If a lesson needs a fact the source repositories do not
+  state, stop and ask the Human Engineer.
 
-## Testing (CONTROL 15)
-- Every behavior change ships with tests in the same commit.
-- Run the tests and report the real result; "not run" is never reported as a pass.
+## Lessons (CONTROL 05)
+- One lesson per folder: `Courses/<course>/<NN-lesson-name>/lesson.md`.
+- Every `lesson.md` starts with the CONTROL 05 header block.
+- Only the Human Engineer sets `Status: Approved` or later. AI may draft and revise.
+- A lesson cannot move past `Review` until its supporting image exists (CONTROL 05 §5).
+- Narration reads the approved text exactly; never rewrite an approved lesson for audio.
+- Run `scripts/check-lessons.sh` after adding or editing any lesson.
 
 ## Commits (CONTROL 14)
 - One logical change per commit: `[Layer] - [Action] - [Object]`
-  e.g. `[Logic] - Added - OrderTotalCalculator`
+  e.g. `[Lesson] - Added - Building With Claude 01 From Turing to Claude`
 
 ## CONTROL documents (CONTROL 04 §3)
 - New documents start from `Control/_TEMPLATE — New CONTROL Document.md`.
 - Every document is listed in CONTROL 00.
 - Run `scripts/check-controls.sh` after editing any CONTROL document.
 - Replace `{{FILL: …}}` markers only with facts from the Human Engineer or the codebase — never invent them.
+
+## Software (Phase 3 and later)
+When code is added, CONTROL 03, 10, 15 and 16 apply in full: layered architecture,
+`// Layer:` and `// Governed by:` file headers, and tests in the same commit as every behavior change.
