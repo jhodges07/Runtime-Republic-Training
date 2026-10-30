@@ -45,6 +45,7 @@ DECISIONS LOG:
 | 2026-10-30 | Training material is not authority; canonical control repositories win | CONTROL 01 §6 |
 | 2026-10-30 | Human Engineer is sole lesson approver (assumed; confirm) | CONTROL 05 §4 |
 | 2026-10-30 | Image standards deferred to Phase 1 | CONTROL 05 §5 |
+| 2026-10-30 | Lessons may run about 3 minutes (450–1,000 words) | CONTROL 05 §6 v1.2 |
 | 2026-10-30 | Software license not yet chosen; decide before Phase 3 | README.md (License) |
 | 2026-10-30 | Building With Claude moved to private repo Lean-Office-Pro-LLC; Claude for Citizens added as the public citizen version | PR #5 |
 | 2026-10-30 | PR #1 (essay setup) superseded by the merged course structure; its essays, images, LICENSE and SOURCES.md moved in, PR #1 closed | PR #3 |
