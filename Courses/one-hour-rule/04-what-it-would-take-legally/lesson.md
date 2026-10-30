@@ -17,7 +17,7 @@ A rule the Legislature can suspend by a vote will get suspended whenever it is i
 
 There are three places the rule could live, and each has a tradeoff.
 
-The first is the joint rules of the House and Senate. Each chamber adopts these by its own vote. That is the fastest path, and it could start as soon as next session. The weakness is that a rule can be suspended by vote, just as Joint Rule Four K has been.
+The first is the joint rules of the House and Senate. Each chamber adopts these by its own vote. That is the fastest path, and it could start as soon as next session. The weakness is that a rule can be set aside by vote. Today's thirty-minute rule for conference reports, Joint Rule Three F, can already be waived by two-thirds of the members present.
 
 The second is a statute, a law passed by both chambers and signed by the Governor. A statute can bind state agencies, local governments and the Governor's office. But the Kansas Constitution says each house determines the rules of its own proceedings. So a court might not enforce a statute against the Legislature's internal steps.
 

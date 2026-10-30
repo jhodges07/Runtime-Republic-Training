@@ -80,7 +80,7 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Gut and go moves new text into an unrelated bill; conference committees take no testimony and are often scheduled with little notice | [The Beacon: guide to the Kansas Legislature](https://thebeaconnews.org/?p=12139) |
 | 2017 school finance formula passed in a bill that had been about insurance regulation | [KMUW, 2018-03-02](https://www.kmuw.org/government/2018-03-02/in-kansas-maligned-gut-and-go-tactic-gets-laws-enacted) |
 | Conference reports are voted up or down with no amendments | [Foulston: Kansas Legislative Insights, 2026-03-23](https://foulston.com/resources/kansas-legislative-insights-newsletter-march-23-2026) |
-| Motions to suspend Joint Rule 4(k) to allow consideration of conference reports, 2011 and 2018 | [HB 2010 history (2011)](https://www.kslegislature.gov/li_2012/b2011_12/measures/hb2010/) · [HB 2577 history (2018)](https://kslegislature.org/li_2018/b2017_18/measures/HB2577) |
+| Joint Rule 3(f): conference report copies available to members 30 minutes before consideration; two-thirds of members present may dispense with distribution (2025–2026 Joint Rules) | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
 | A House majority leader defended the gut and go and said it would need a replacement | [Lawrence Journal-World](https://www2.ljworld.com/news/2002/feb/22/russians_threaten_to_leave/) |
 
 ### Lesson 03 — Open Meetings Meet Open Repositories
@@ -96,6 +96,7 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 
 | Fact | Source |
 |---|---|
+| Joint Rule 3(f) 30-minute rule can be waived by two-thirds of members present | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
 | Each house determines the rules of its proceedings (Kansas Constitution, Article 2, Section 8) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
 | Amendments need two-thirds of all members of each house, then a majority of electors voting on them (Article 14, Section 1) | [Kansas Constitution, Article 14, Section 1 (Revisor)](https://ksrevisor.gov/kanconst/093_014_0001.html) |
 | 2025 open-government law (effective July 1, 2025) requires bodies that live stream meetings to let the public observe | [Lawrence Journal-World, 2025-04-09](https://www2.ljworld.com/news/2025/apr/09/new-state-law-will-require-lawrence-city-commission-to-change-how-it-handles-public-comments-in-its-live-streams/) |
