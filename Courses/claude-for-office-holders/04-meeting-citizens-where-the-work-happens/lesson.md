@@ -4,7 +4,7 @@ Course: Claude for Office Holders
 Lesson: 04 of 05
 Status: Draft
 Runtime: about 5 minutes
-Image: Pending
+Image: 04-meeting-citizens.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
