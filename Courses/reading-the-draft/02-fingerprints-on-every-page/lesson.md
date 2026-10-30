@@ -1,10 +1,12 @@
 # Fingerprints on Every Page
 
+![Fingerprints on Every Page](02-fingerprints-on-every-page.png)
+
 Course: Reading the Draft
 Lesson: 02 of 02
 Status: Review
 Runtime: about 11 minutes
-Image: Pending
+Image: 02-fingerprints-on-every-page.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
