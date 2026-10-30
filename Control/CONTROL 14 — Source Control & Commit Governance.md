@@ -36,7 +36,7 @@ Actions: `Added`, `Updated`, `Fixed`, `Removed`, `Refactored`
 Examples:
 
 ```
-[Lesson] - Added - Building With Claude 01 From Turing to Claude
+[Lesson] - Added - Claude for Citizens 01 From Turing to Your Kitchen Table
 [Course] - Added - NBBF course page
 [Logic] - Added - OrderTotalCalculator
 [Infrastructure] - Fixed - Null handling in OrderRepository

@@ -52,7 +52,7 @@ Runtime-Republic Training/
 
 # 3. Naming Rules
 
-• Course folders: lowercase words joined by hyphens, e.g. `building-with-claude`.
+• Course folders: lowercase words joined by hyphens, e.g. `claude-for-citizens`.
 • Lesson folders: two-digit order number, then lowercase hyphenated title, e.g. `01-from-turing-to-claude`.
 • The order number is the lesson's place in the course and never changes once a lesson is approved.
 

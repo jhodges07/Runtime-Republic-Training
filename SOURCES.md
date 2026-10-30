@@ -60,12 +60,11 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 
 ---
 
-## Building With Claude
+## Claude for Office Holders
 
-### Lesson 04 — The Business Under the Apps
+### Lesson 02 — Using AI Responsibly in Office
 
 | Fact | Source |
 |---|---|
-| Kansas LLC annual report form | [Kansas Secretary of State](https://sos.ks.gov/forms/business_services/LC.pdf) |
-| Annual report due the 15th day of the 4th month after fiscal year end (April 15 for calendar-year LLCs) | [Business Anywhere](https://businessanywhere.io/kansas-llc-annual-report/) |
-| Kansas reinstatement process | [Harbor Compliance](https://www.harborcompliance.com/information/reinstate-revive-kansas-llc) |
+| Since July 1, 2016, Kansas "public records" include official-business records on personal devices and private accounts (K.S.A. 45-217(g)(1)); KORA exceptions still apply | [KU Public Affairs: KORA update, 2016](https://publicaffairs.ku.edu/kansas-open-records-act-kora-update) · [KLRD: Kansas Open Records Act](https://klrd.gov/publications/briefing-book-2021/kansas-open-records-act/) |
+| A series of interactive communications is subject to KOMA if it collectively involves a majority of the body's membership, shares a common topic of the body's business, and is intended by any participant to reach agreement on a matter requiring binding action (K.S.A. 75-4318(f)); KOMA covers the Legislature (unless its rules provide otherwise), counties, cities and school districts | [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/) |

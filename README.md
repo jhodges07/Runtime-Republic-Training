@@ -15,10 +15,12 @@ Lessons are written as essays, then narrated word for word as podcast episodes.
 New to all of this? Take the courses in this order:
 
 1. [GitHub for Everyone](Courses/github-for-everyone/README.md): what GitHub is and how people build things together on it, from a beginner level up
-2. [Building With Claude](Courses/building-with-claude/README.md): using AI under human control to build real things, alone or as a group
+2. [Claude for Citizens](Courses/claude-for-citizens/README.md): using an AI assistant to understand your government, check what you read, and work together online
 3. [AGCL — Node-Based Liberty Framework](Courses/agcl-nblf/README.md)
 4. [NBBF — Node-Based Budget Framework](Courses/nbbf/README.md)
 5. [NBEF — Node-Based Education Framework](Courses/nbef/README.md)
+
+Hold public office? Start with [Claude for Office Holders](Courses/claude-for-office-holders/README.md).
 
 Full catalog with status: [Courses](Courses/README.md).
 
