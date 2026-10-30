@@ -4,7 +4,7 @@ Course: Claude for Citizens
 Lesson: 01 of 05
 Status: Draft
 Runtime: about 5 and a half minutes
-Image: Pending
+Image: 01-from-turing-to-your-kitchen-table.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
