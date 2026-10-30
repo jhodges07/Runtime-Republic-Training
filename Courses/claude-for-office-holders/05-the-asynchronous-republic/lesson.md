@@ -4,7 +4,7 @@ Course: Claude for Office Holders
 Lesson: 05 of 05
 Status: Draft
 Runtime: about 5 minutes
-Image: Pending
+Image: 05-the-asynchronous-republic.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
