@@ -124,3 +124,12 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Interactive communication need not be in real time | [AG Opinion 98-26](https://ksag.washburnlaw.edu/opinions/1998/1998-026.htm) |
 | Joint rules may be amended or suspended by vote (Joint Rule 1) | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
 | Model draft discussed (joint rule (f), statute Sec. 2, 4, 5, 6) | Human Engineer working document "One-Hour Rule: Model Legislative Language" (2026-10-30); not published |
+
+### Lesson 02 — Fingerprints on Every Page
+
+| Fact | Source |
+|---|---|
+| Joint Rule 3(f): conference report copies 30 minutes before consideration; two-thirds of members present may dispense; Joint Rule 1: amending and suspending joint rules | [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf) |
+| Bills presented to the Governor within ten days after passage; Governor has ten calendar days to act (Kansas Constitution, Article 2, Section 14) | [Article 2, Kansas Constitution (Ballotpedia)](https://ballotpedia.org/Article_2,_Kansas_Constitution) |
+| Model draft discussed (joint rule (a)–(e), (g); statute Sec. 2, 3; definitions; constitutional amendment) | Human Engineer working document "One-Hour Rule: Model Legislative Language" (2026-10-30); not published |
+| Repository outage recorded as a project risk (R-005) | Legislative-Manager, `projects/PRJ-002-Kansas-Legislative-Text-Posting/SPEC-003-Kansas-One-Hour-Posting-Rule.md` (proposed) |
