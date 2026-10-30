@@ -4,7 +4,7 @@ Course: Claude for Citizens
 Lesson: 05 of 05
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 05-the-asynchronous-republic.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
