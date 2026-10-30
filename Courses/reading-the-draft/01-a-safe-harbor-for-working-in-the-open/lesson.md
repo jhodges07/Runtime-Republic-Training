@@ -4,12 +4,12 @@
 
 Course: Reading the Draft
 Lesson: 01 of 02
-Status: Review
+Status: Approved
 Runtime: about 12 minutes
 Image: 01-a-safe-harbor-for-working-in-the-open.png
 Podcast: Not recorded
 Sources: None
-Approved by: —
+Approved by: James A. Hodges, 2026-10-30
 License: CC BY 4.0
 Audience: Kansas citizens and office holders; follows The One-Hour Rule and Claude for Office Holders, Lesson 06
 
