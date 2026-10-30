@@ -1,7 +1,7 @@
 # A Safe Harbor for Working in the Open
 
 Course: Reading the Draft
-Lesson: 01 of 01
+Lesson: 01 of 02
 Status: Draft
 Runtime: about 12 minutes
 Image: Pending
@@ -81,7 +81,7 @@ This has been Runtime Republic. Find the essays, the projects, and ways to get i
 
 ### Continue reading
 
-[Series index](../README.md)
+[Series index](../README.md) · [Next essay →](../02-fingerprints-on-every-page/lesson.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 

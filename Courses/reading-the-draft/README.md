@@ -10,6 +10,7 @@ proposed project in the Legislative-Manager repository.
 | # | Lesson | Status | Image |
 |---|---|---|---|
 | 01 | [A Safe Harbor for Working in the Open](01-a-safe-harbor-for-working-in-the-open/lesson.md) | Draft | Pending |
+| 02 | [Fingerprints on Every Page](02-fingerprints-on-every-page/lesson.md) | Draft | Pending |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 
